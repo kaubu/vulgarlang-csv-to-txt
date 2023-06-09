@@ -1,0 +1,3388 @@
+[Adjectives]
+thin (slender); slim – ä – /æ/
+mean; vicious – aasiuu – /ˈäːʃʌː/
+old; antique – ae – /äi̯/
+aesthetic – aerii – /ˈäi̯riː/
+curious – äl – /æl/
+oral – aloku – /äˈlɔkʌ/ [äˈlɔgʌ]
+random – äma – /ˈæmä/
+green; sick; fresh – ämo – /ˈæmɔ/
+rare – äna – /ˈænä/
+pretty – ar – /är/
+broken – asiaiko – /äˈʃäi̯kɔ/ [äˈʃäi̯gɔ]
+relevant – ate – /ˈätɛ/
+mature; ripe – audii – /ˈäʌ̯diː/
+equal; equivalent – daahe – /ˈdäːhɛ/
+manual – daji – /ˈdäji/
+plain – dän – /dæn/
+vibrant – daoo – /ˈdäɔː/
+small; little – dau – /däʌ̯/
+dead – deeheko – /dɛːˈhɛkɔ/ [dɛːˈhɛgɔ]
+cute – deelä – /ˈdɛːlæ/
+political – deenooku – /dɛːˈnɔːkʌ/ [dɛːˈnɔːgʌ]
+full – deke – /ˈdɛkɛ/ [ˈdɛgɛ]
+dangerous – demaara – /dɛˈmäːrä/
+messy – demera – /dɛˈmɛrä/
+straight; steep – detu – /ˈdɛtʌ/
+nervous; anxious – dijoo – /ˈdijɔː/
+economic – dilku – /ˈdilkʌ/
+sophisticated; intricate – dimae – /ˈdimäi̯/
+obscure – dimoo – /ˈdimɔː/
+due – dooduu – /ˈdɔːdʌː/
+gradual – doohem – /ˈdɔːhɛm/
+lucky – dulo – /ˈdʌlɔ/
+furious – dunra – /ˈdʌnrä/
+exotic – dupi – /ˈdʌpi/ [ˈdʌbi]
+final – duurko – /ˈdʌːrkɔ/
+alternate – eepai – /ˈɛːpäi̯/ [ˈɛːbäi̯]
+gray – egii – /ˈɛgiː/
+awkward – eho – /ˈɛhɔ/
+static; passive – ejii – /ˈɛjiː/
+spontaneous – emoo – /ˈɛmɔː/
+central – emra – /ˈɛmrä/
+poor – eni – /ˈɛni/
+exact; precise; definite – erae – /ˈɛräi̯/
+naked; nude – esee – /ˈɛsɛː/
+comfortable – eveera – /ɛˈvɛːrä/
+soft – faamaar – /ˈfäːmäːr/
+physical; tangible – fägäveen – /fæˈgævɛːn/
+elite – fäji – /ˈfæji/
+fancy – fäna – /ˈfænä/
+rich – färra – /ˈfærrä/
+sturdy – fedu – /ˈfɛdʌ/
+custom – feevo – /ˈfɛːvɔ/
+practical; pragmatic – fehoo – /ˈfɛhɔː/
+civilized – femä – /ˈfɛmæ/
+similar – fepa – /ˈfɛpä/ [ˈfɛbä]
+stable; steady; calm; patient; consistent; compatible – ferii – /ˈfɛriː/
+fair; just – fiim – /fiːm/
+free – foon – /fɔːn/
+apparent – fuun – /fʌːn/
+social – haal – /häːl/
+temporary – häbo – /ˈhæbɔ/
+deaf – hahiloo – /häˈhilɔː/
+loud; noisy – här – /hær/
+national – hebiku – /hɛˈbikʌ/ [hɛˈbigʌ]
+rude; crude; nasty; vulgar – hekue – /ˈhɛkui̯/ [ˈhɛgui̯]
+stubborn – hetii – /ˈhɛtiː/
+opposite – higoo – /ˈhigɔː/
+possible – hiilee – /ˈhiːlɛː/
+bad – hiilue – /ˈhiːlui̯/
+expensive – hindora – /hinˈdɔrä/
+confidential – hisae – /ˈhisäi̯/
+blunt – hoboo – /ˈhɔbɔː/
+loose – homaagen – /hɔˈmäːgɛn/
+academic – huedeku – /hui̯ˈdɛkʌ/ [hui̯ˈdɛgʌ]
+personal – humku – /ˈhʌmkʌ/
+dense – hurr – /hʌr/
+sharp; steep – iigu – /ˈiːgʌ/
+sticky – iiteesi – /iːˈtɛːsi/ [iːˈtɛːʃ]
+greedy – iivuera – /iːˈvui̯rä/
+golden – ijeera – /iˈjɛːrä/
+major – imii – /ˈimiː/
+red; purple – ini – /ˈini/
+hot – ira – /ˈirä/
+favorite – iroo – /ˈirɔː/
+blind – ito – /ˈitɔ/
+other; new; spare – jaa – /jäː/
+alone – jann – /jän/
+quiet; shy – japee – /ˈjäpɛː/ [ˈjäbɛː]
+important – jau – /jäʌ̯/
+former – jaum – /jäʌ̯m/
+cruel; nasty – javo – /ˈjävɔ/
+evident – jeeni – /ˈjɛːni/
+even; parallel – jem – /jɛm/
+brief – jera – /ˈjɛrä/
+tropical – jiige – /ˈjiːgɛ/
+crazy; insane; absurd – jiledau – /jiˈlɛdäʌ̯/
+probable – jobo – /ˈjɔbɔ/
+legal – joonku – /ˈjɔːnkʌ/
+offensive – juelsi – /ˈjui̯lsi/ [jui̯lʃ]
+ignorant – juerr – /jui̯r/
+casual – jur – /jʌr/
+short; low – juu – /jʌː/
+automatic – kaan – /käːn/
+awesome – kabo – /ˈkäbɔ/
+good; excellent; fantastic; wonderful; fabulous; terrific; superb; nice; amazing – kaem – /käi̯m/
+hungry – käkera – /kæˈkɛrä/ [kæˈgɛrä]
+logical – känku – /ˈkænkʌ/
+reasonable – känra – /ˈkænrä/
+logical – känra – /ˈkænrä/
+infinite – käsar – /ˈkæsär/
+absent – kasuumra – /käˈsʌːmrä/ [käˈʃʌmrä]
+benign; gentle – kebo – /ˈkɛbɔ/
+formal – keebue – /ˈkɛːbui̯/
+huge – keegoopi – /kɛːˈgɔːpi/ [kɛːˈgɔːbi]
+general; generic – keem – /kɛːm/
+left – keen – /kɛːn/
+volatile – keenä – /ˈkɛːnæ/
+acute – keepe – /ˈkɛːpɛ/ [ˈkɛːbɛ]
+triple – keje – /ˈkɛjɛ/
+stupid; dumb; dull; silly; dim – kema – /ˈkɛmä/
+guilty – kesenra – /kɛˈsɛnrä/
+serial – kesuu – /ˈkɛsʌː/ [ˈkɛʃʌ]
+obese – kibiin – /ˈkibiːn/
+yellow; green; blue; orange; brown – kiigo – /ˈkiːgɔ/
+weird; strange; bizarre; peculiar – kiilau – /ˈkiːläʌ̯/
+fashionable – kiilira – /kiːˈlirä/
+funny – kiisi – /ˈkiːsi/ [kiːʃ]
+arrogant – kiite – /ˈkiːtɛ/
+bankrupt; broke – kimuu – /ˈkimʌː/
+hard; difficult – kine – /ˈkinɛ/
+complex – kisiiko – /kiˈsiːkɔ/ [kiˈʃigɔ]
+busy – kom – /kɔm/
+arrogant – koogiim – /ˈkɔːgiːm/
+rough – kuesaa – /ˈkui̯säː/
+polite – kuihu – /ˈkui̯hʌ/
+easy; simple – kuill – /kui̯l/
+empty; vacant; hollow – kuje – /ˈkʌjɛ/
+big; great (very large) – kumm – /kʌm/
+right (direction) – kuu – /kʌː/
+happy – kuusaa – /ˈkʌːsäː/
+abundant; lush; fertile – laeri – /ˈläi̯ri/
+competent – lail – /läi̯l/
+subtle – läsimm – /ˈlæsim/ [læʃm]
+only – lau – /läʌ̯/
+ambiguous; elusive – laurau – /ˈläʌ̯räʌ̯/
+gorgeous; handsome; attractive – leeku – /ˈlɛːkʌ/ [ˈlɛːgʌ]
+last (only remaining) – lii – /liː/
+bright – liidira – /liːˈdirä/
+raw – liin – /liːn/
+bloody – liinaera – /liːˈnäi̯rä/
+previous – lir – /lir/
+sad – lisua – /ˈliʃä/
+backward – lojeni – /lɔˈjɛni/
+little – loo – /lɔː/
+lazy – loojau – /ˈlɔːjäʌ̯/
+deep – luhain – /ˈlʌhäi̯n/
+same – lui – /lui̯/
+sour; bitter – lupe – /ˈlʌpɛ/ [ˈlʌbɛ]
+able; capable; ready – luu – /lʌː/
+complicated – luujii – /ˈlʌːjiː/
+special; unique – maapaa – /ˈmäːpäː/ [ˈmäːbäː]
+common; frequent; normal; regular; medium – maibi – /ˈmäi̯bi/
+careful – mänsi – /ˈmænsi/ [mænʃ]
+proud – marra – /ˈmärrä/
+thick – maugo – /ˈmäʌ̯gɔ/
+silent – meemira – /mɛːˈmirä/
+serious – mega – /ˈmɛgä/
+jealous – meli – /ˈmɛli/
+sexual – memora – /mɛˈmɔrä/
+single – menn – /mɛn/
+popular; famous – metivä – /mɛˈtivæ/
+reluctant – mider – /ˈmidɛr/
+sorry – miee – /ˈmiɛː/ [mjɛː]
+vicious – migäll – /ˈmigæl/
+reverse – miibaa – /ˈmiːbäː/
+awful; terrible – miii – /ˈmiiː/ [mjiː]
+eager – miilaa – /ˈmiːläː/
+young – miinra – /ˈmiːnrä/
+certain; sure – miir – /miːr/
+wild – miki – /ˈmiki/ [ˈmigi]
+long – mimura – /miˈmʌrä/
+distant – mimura – /miˈmʌrä/
+skilled – minomra – /miˈnɔmrä/
+permanent – mitee – /ˈmitɛː/
+neat; fine (okay) – monoo – /ˈmɔnɔː/
+recent – moovoom – /ˈmɔːvɔːm/
+specific; definite; particular – mopa – /ˈmɔpä/ [ˈmɔbä]
+real; authentic – morr – /mɔr/
+internal – muerku – /ˈmui̯rkʌ/
+confident – mugo – /ˈmʌgɔ/
+interior – muir – /mui̯r/
+ready; ripe – mupaa – /ˈmʌpäː/ [ˈmʌbäː]
+precious; rare – näm – /næm/
+dumb (speechless) – nati – /ˈnäti/
+dry – nebi – /ˈnɛbi/
+conscious – neegi – /ˈnɛːgi/
+narrow – neeko – /ˈnɛːkɔ/ [ˈnɛːgɔ]
+urban – neemra – /ˈnɛːmrä/
+exempt – neniivu – /nɛˈniːvʌ/
+best – niim – /niːm/
+bizarre – niir – /niːr/
+sick; ill; unwell – niji – /ˈniji/
+pink – nitu – /ˈnitʌ/
+past – nomm – /nɔm/
+flirtatious – noonsi – /ˈnɔːnsi/ [nɔːnʃ]
+friendly – nosära – /nɔˈsærä/
+fluent – notii – /ˈnɔtiː/
+successful – nudiira – /nʌˈdiːrä/
+evil; mean – nuukä – /ˈnʌːkæ/ [ˈnʌːgæ]
+loyal – nuum – /nʌːm/
+different; distinct; various – nuun – /nʌːn/
+rugged – odoo – /ˈɔdɔː/
+white; blank; clear; transparent – ol – /ɔl/
+cold; cool (slightly cold) – oobue – /ˈɔːbui̯/
+awake; aware – oodäm – /ˈɔːdæm/
+angry; mad – opui – /ˈɔpui̯/ [ˈɔbui̯]
+beautiful; attractive – oserai – /ɔˈsɛräi̯/
+lethal; fatal – otänn – /ˈɔtæn/
+scarce – ovuel – /ˈɔvui̯l/
+tired (needing sleep); tired (needing rest) – pa – /pä/
+fat – pä – /pæ/
+healthy – peeko – /ˈpɛːkɔ/ [ˈpɛːgɔ]
+rigorous – pehee – /ˈpɛhɛː/
+safe; immune – pekuu – /ˈpɛkʌː/ [ˈpɛgʌː]
+fragile – pell – /pɛl/
+extinct – pemuegä – /pɛˈmui̯gæ/
+fresh; crisp – piihau – /ˈpiːhäʌ̯/
+sensible – piila – /ˈpiːlä/
+holy; sacred – piire – /ˈpiːrɛ/
+humble; modest – pije – /ˈpijɛ/
+basic – pikuu – /ˈpikʌː/ [ˈpigʌː]
+cultural – piniiku – /piˈniːkʌ/ [piˈniːgʌ]
+fine (okay) – pipe – /ˈpipɛ/ [ˈpibɛ]
+native – pito – /ˈpitɔ/
+late – po – /pɔ/
+drunk (inebriated) – poli – /ˈpɔli/
+last (final); last (previous) – poone – /ˈpɔːnɛ/
+slow; late – porr – /pɔr/
+black – povu – /ˈpɔvʌ/
+minor; mere; petty – pulo – /ˈpʌlɔ/
+dark – raemi – /ˈräi̯mi/
+instant – raki – /ˈräki/ [ˈrägi]
+shiny – rämsi – /ˈræmsi/ [ræmʃ]
+tired (needing rest); lazy – rau – /räʌ̯/
+comic – rauju – /ˈräʌ̯jʌ/
+thin (narrow) – reem – /rɛːm/
+vague; fuzzy – riibiia – /riːˈbiːä/
+cool (fashionable) – rijo – /ˈrijɔ/
+high; loud; noisy – ro – /rɔ/
+accurate; valid – rota – /ˈrɔtä/
+coherent – rovaimoo – /rɔˈväi̯mɔː/
+scared; afraid – ruujau – /ˈrʌːjäʌ̯/
+ancient; antique – ruusi – /ˈrʌːsi/ [rʌːʃ]
+sore – säbui – /ˈsæbui̯/
+critical – sähesi – /sæˈhɛsi/ [sæˈhɛʃ]
+next – säjee – /ˈsæjɛː/
+regular – säkesiee – /sæˈkɛʃɛː/ [sæˈgɛʃɛː]
+boring – sämsi – /ˈsæmsi/ [sæmʃ]
+usual – särr – /sær/
+private – sau – /säʌ̯/
+wet; damp; moist – sedela – /sɛˈdɛlä/
+intense – seegoo – /ˈsɛːgɔː/
+skinny – segän – /ˈsɛgæn/
+compact – siäsu – /ˈʃæsʌ/ [ʃæʃ]
+fun – siävii – /ˈʃæviː/
+smart; intelligent; clever; wise – siidau – /ˈʃidäʌ̯/
+blonde – siidi – /ˈʃidi/
+sober – siiin – /ʃiːn/
+middle – siil – /siːl/ [ʃil]
+perfect; pure – siill – /ʃil/
+warm – siim – /siːm/ [ʃim]
+famous – siirr – /ʃir/
+violent – siiru – /ˈsiːrʌ/ [ˈʃirʌ]
+available – sill – /sil/ [ʃl]
+mobile; portable – simä – /ˈsimæ/ [ʃmæ]
+external – simm – /sim/ [ʃm]
+cheap – sinii – /ˈsiniː/ [ʃniː]
+light (weight) – siogo – /ˈʃɔgɔ/
+classic – siuim – /ʃui̯m/
+dirty – siuipoora – /ʃui̯ˈpɔːrä/ [ʃui̯ˈbɔːrä]
+main; premier – sium – /ʃʌm/
+wrong – somm – /sɔm/
+selfish – somoo – /ˈsɔmɔː/
+stiff; stubborn – sool – /sɔːl/
+false; fake – suän – /ʃæn/
+local – suar – /ʃär/
+great (excellent); awesome – suela – /ˈʃɛlä/
+sole; lone – suenee – /ˈʃɛnɛː/
+pregnant – suenil – /ˈʃɛnil/
+delicious – suiijive – /ʃiːˈjivɛ/
+corrupt – suiil – /ʃiːl/
+tough; robust – suikee – /ˈʃikɛː/ [ˈʃigɛː]
+damp; moist – suikiin – /ˈʃikiːn/ [ˈʃigiːn]
+heavy – suimm – /sui̯m/
+early – suimo – /ˈʃimɔ/
+silly; absurd – suinu – /ˈʃinʌ/
+noble – suipä – /ˈsui̯pæ/ [ˈsui̯bæ]
+massive; enormous – suiseju – /ʃiˈsɛjʌ/
+true; honest; pure; sincere; innocent; earnest; moral; wholesome – sukuu – /ˈsʌkʌː/ [ʃkʌː]
+close; accurate – sunn – /sʌn/ [ʃn]
+great (very large); enormous – suoll – /ʃɔl/
+sudden; abrupt; swift – suum – /sʌːm/ [ʃʌm]
+sweet; delicious – suuto – /ˈsʌːtɔ/ [ˈʃʌtɔ]
+technological – taamku – /ˈtäːmkʌ/
+right; correct; appropriate; valid; moral – tai – /täi̯/
+strong – tara – /ˈtärä/
+new; current – tau – /täʌ̯/
+aroused (sexually) – taun – /täʌ̯n/
+gay; homosexual – teemi – /ˈtɛːmi/
+whole; entire – teepä – /ˈtɛːpæ/ [ˈtɛːbæ]
+significant – teer – /tɛːr/
+deliberate – tiihu – /ˈtiːhʌ/
+ironic – tiin – /tiːn/
+nice – tijui – /ˈtijui̯/
+weak – till – /til/
+wide; broad – tom – /tɔm/
+hot (attractive) – tooke – /ˈtɔːkɛ/ [ˈtɔːgɛ]
+fast; smart; intelligent; quick – tueduu – /ˈtui̯dʌː/
+religious – tuimooku – /tui̯ˈmɔːkʌ/ [tui̯ˈmɔːgʌ]
+naive; innocent – tuinä – /ˈtui̯næ/
+flat; smooth; sleek – tull – /tʌl/
+medical – tuugiiku – /tʌːˈgiːkʌ/ [tʌːˈgiːgʌ]
+plausible – tuulo – /ˈtʌːlɔ/
+miniature – uepe – /ˈui̯pɛ/ [ˈui̯bɛ]
+imminent; pending – uer – /ui̯r/
+keen – uikaa – /ˈui̯käː/ [ˈui̯gäː]
+round – uki – /ˈʌki/ [ˈʌgi]
+solid – ukim – /ˈʌkim/ [ˈʌgim]
+gross – upe – /ˈʌpɛ/ [ˈʌbɛ]
+necessary – uujue – /ˈʌːjui̯/
+convenient – uukä – /ˈʌːkæ/ [ˈʌːgæ]
+tall – uvije – /ʌˈvijɛ/
+suspicious – vagiko – /väˈgikɔ/ [fäˈgigɔ]
+foreign – vake – /ˈväkɛ/ [ˈfägɛ]
+natural – vänku – /ˈvænkʌ/ [ˈfænkʌ]
+bald – vautä – /ˈväʌ̯tæ/ [ˈfäʌ̯tæ]
+ugly; awful; terrible – veesii – /ˈvɛːsiː/ [ˈfɛːʃi]
+risky – vemra – /ˈvɛmrä/ [ˈfɛmrä]
+extreme; severe; radical – vesiaa – /ˈvɛʃäː/ [ˈfɛʃäː]
+large; massive; enormous; huge – vii – /viː/ [fiː]
+buxom – viisii – /ˈviːʃi/ [ˈfiːʃi]
+intimate – visu – /ˈvisʌ/ [fiʃ]
+clean; neat; elegant – voboo – /ˈvɔbɔː/ [ˈfɔbɔː]
+powerful – vono – /ˈvɔnɔ/ [ˈfɔnɔ]
+painful – voovera – /vɔːˈvɛrä/ [fɔːˈvɛrä]
+tight; tense; firm – vuesuum – /ˈvui̯sʌːm/ [ˈfui̯ʃʌm]
+live – vunii – /ˈvʌniː/ [ˈfʌniː]
+damn – vuuhi – /ˈvʌːhi/ [ˈfʌːhi]
+
+
+[Adverbs]
+just; hardly; only – de – /dɛ/
+nowhere – dube – /ˈdʌbɛ/
+finally – duurkope – /dʌːrˈkɔpɛ/ [dʌːrˈkɔbɛ]
+tomorrow – eel – /ɛːl/
+exactly – eraepe – /ɛˈräi̯pɛ/ [ɛˈräi̯bɛ]
+again – fee – /fɛː/
+here – fo – /fɔ/
+about – foom – /fɔːm/
+however – hii – /hiː/
+barely; merely; hardly – hill – /hil/
+together – hivu – /ˈhivʌ/
+where – hotimu – /hɔˈtimʌ/
+today; nowadays – hu – /hʌ/
+ever – huum – /hʌːm/
+very; really; quite; rather – jaur – /jäʌ̯r/
+always; all the time; forever – jekoome – /jɛˈkɔːmɛ/ [jɛˈgɔːmɛ]
+behind; back – jii – /jiː/
+then – jiim – /jiːm/
+probably – jobope – /jɔˈbɔpɛ/ [jɔˈbɔbɛ]
+not – joom – /jɔːm/
+later – jumau – /ˈjʌmäʌ̯/
+why – kaa – /käː/
+often – käkue – /ˈkækui̯/ [ˈkægui̯]
+therefore; thus – karr – /kär/
+there – kee – /kɛː/
+less – keesui – /ˈkɛːʃi/
+far; away – kiko – /ˈkikɔ/ [ˈkigɔ]
+now; already – ko – /kɔ/
+simply – kuelpe – /ˈkui̯lpɛ/
+also; as well – lee – /lɛː/
+never – letii – /ˈlɛtiː/
+previously – lirpe – /ˈlirpɛ/
+especially – maapaape – /mäːˈpäːpɛ/ [mäːˈbäːbɛ]
+certainly – miirpe – /ˈmiːrpɛ/
+out – mim – /mim/
+recently – moovoompe – /mɔːˈvɔːmpɛ/
+either – mueri – /ˈmui̯ri/
+soon – mun – /mʌn/
+that – muun – /mʌːn/
+off – nii – /niː/
+how – niibe – /ˈniːbɛ/
+as – niil – /niːl/
+sometimes – omoo – /ˈɔmɔː/
+aboard – oni – /ˈɔni/
+least – oor – /ɔːr/
+somewhat; fairly; pretty; quite – pägu – /ˈpægʌ/
+maybe; perhaps – peepoo – /ˈpɛːpɔː/ [ˈpɛːbɔː]
+yesterday – pim – /pim/
+actually – poogä – /ˈpɔːgæ/
+almost – poon – /pɔːn/
+up – pu – /pʌ/
+too; also; as well – reel – /rɛːl/
+when – roo – /rɔː/
+nevertheless; regardless; even though – saal – /säːl/
+once – säl – /sæl/
+usually – särpe – /ˈsærpɛ/
+still – soo – /sɔː/
+tonight – suu aanoo – /ʃʌ ˈäːnɔː/
+yet – suue – /ʃui̯/
+suddenly – suumpe – /ˈsʌːmpɛ/ [ˈʃʌmpɛ]
+so; therefore; thus – te – /tɛ/
+down – ti – /ti/
+else; otherwise – totii – /ˈtɔtiː/
+quickly – tuiduupe – /tui̯ˈdʌːpɛ/ [tui̯ˈdʌːbɛ]
+ago – tuu – /tʌː/
+only; merely; hardly – uul – /ʌːl/
+well – veesie – /ˈvɛːʃɛ/ [ˈfɛːʃɛ]
+etcetera – vigi – /ˈvigi/ [ˈfigi]
+most – vin – /vin/ [fin]
+clearly – vope – /ˈvɔpɛ/ [ˈfɔbɛ]
+
+
+[Articles]
+
+
+[Conjunctions]
+even – daeti – /ˈdäi̯ti/
+because – dee – /dɛː/
+until – fa – /fä/
+that – fiin – /fiːn/
+since – fuu – /fʌː/
+unless – kojuulo – /kɔˈjʌːlɔ/
+although; though – koki – /ˈkɔki/ [ˈkɔgi]
+but – lo – /lɔ/
+and – oo – /ɔː/
+if – ree – /rɛː/
+or; either – sai – /säi̯/
+whether – see – /sɛː/
+than – suo – /ʃɔ/
+while – temi – /ˈtɛmi/
+when – va – /vä/ [fä]
+
+
+[Determiners]
+many – fä – /fæ/
+few – ibejär – /iˈbɛjær/
+that – ka – /kä/
+much – läll – /læl/
+what – mui – /mui̯/
+both – naatä – /ˈnäːtæ/
+all – ni – /ni/
+enough – novo – /ˈnɔvɔ/
+more – pakii – /ˈpäkiː/ [ˈpägiː]
+whose – pimi – /ˈpimi/
+any – ra – /rä/
+which – ri – /ri/
+every; each – sioo – /ʃɔː/
+this – siu – /ʃʌ/
+such – sue – /sui̯/
+several – tärä – /ˈtæræ/
+no – to – /tɔ/
+
+
+[Interjections]
+no – fuuluse – /fʌːˈlʌsɛ/
+yes – hai – /häi̯/
+well – ipo – /ˈipɔ/ [ˈibɔ]
+welcome – jiisieeto – /jiːˈʃɛːtɔ/
+goodbye – pime – /ˈpimɛ/
+okay – sua – /ʃä/
+hello – uupu – /ˈʌːpʌ/ [ˈʌːbʌ]
+
+
+[Nouns]
+diamond – aahui – /ˈäːhui̯/
+brass – aal – /äːl/
+way; course (direction of travel) – aam – /äːm/
+diary; memoir; calendar; schedule; roster – aanä – /ˈäːnæ/
+necklace – aanaa – /ˈäːnäː/
+night; evening – aanoo – /ˈäːnɔː/
+midnight – aanoo siil – /ˈäːnɔː siːl/ [ˈäːnɔː ʃil]
+appearance (act of appearing) – aardo – /ˈäːrdɔ/
+screen – aaroosui – /äːˈrɔːʃi/
+semen – äbau – /ˈæbäʌ̯/
+test – äbee – /ˈæbɛː/
+basil – äbeemi – /æˈbɛːmi/
+mattress – äbi – /ˈæbi/
+lace – äbu – /ˈæbʌ/
+chasm – abui – /ˈäbui̯/
+research – ade – /ˈädɛ/
+picnic – ädee – /ˈædɛː/
+grill – aebiilaa – /äi̯ˈbiːläː/
+cigarette; cigar – aeki – /ˈäi̯ki/ [ˈäi̯gi]
+cynic – aemä – /ˈäi̯mæ/
+end – aerr – /äi̯r/
+symptom – ahaa – /ˈähäː/
+habitat – aidoo – /ˈäi̯dɔː/
+cow; buffalo – ainn – /äi̯n/
+veteran – aisaa – /ˈäi̯säː/
+colony – aitemm – /ˈäi̯tɛm/
+size; capacity – äjemm – /ˈæjɛm/
+planet – äjii – /ˈæjiː/
+war – äkä – /ˈækæ/ [ˈægæ]
+warrior – äkäja – /æˈkæjä/ [æˈgæjä]
+beer – äkau – /ˈækäʌ̯/ [ˈægäʌ̯]
+place; location; address – äkipoo – /æˈkipɔː/ [æˈgibɔː]
+version – ako – /ˈäkɔ/ [ˈägɔ]
+theater; arena – äkuu – /ˈækʌː/ [ˈægʌː]
+mound – äkuune – /æˈkʌːnɛ/ [æˈgʌːnɛ]
+mind (thinking faculty) – all – /äl/
+mouth; gate – alo – /ˈälɔ/
+fire – äm – /æm/
+grass – ämä – /ˈæmæ/
+lever; pedal – ämi – /ˈæmi/
+group; community; gang; bunch; bundle – amii – /ˈämiː/
+voice – amm – /äm/
+drawing – amuipo – /äˈmui̯pɔ/ [äˈmui̯bɔ]
+position (location) – änaal – /ˈænäːl/
+paragraph; clause; verse – ane – /ˈänɛ/
+foot – änn – /æn/
+census – äpe – /ˈæpɛ/ [ˈæbɛ]
+fantasy – äpo – /ˈæpɔ/ [ˈæbɔ]
+restaurant – apuudi – /äˈpʌːdi/ [äˈbʌːdi]
+vulture – ärä – /ˈæræ/
+mammal – ärr – /ær/
+temple; shrine – asaun – /ˈäsäʌ̯n/
+divorce – äsiil – /ˈæsiːl/ [ˈæʃil]
+chick (girl) – asil – /ˈäsil/ [äʃl]
+capsule; tablet – äsue – /ˈæʃɛ/
+feeling – au – /äʌ̯/
+formula – aube – /ˈäʌ̯bɛ/
+crystal – auhuuli – /äʌ̯ˈhʌːli/
+charcoal; fuel – aujootu – /äʌ̯ˈjɔːtʌ/
+frame; cage – aukol – /ˈäʌ̯kɔl/ [ˈäʌ̯gɔl]
+question – aull – /äʌ̯l/
+border; boundary – aume – /ˈäʌ̯mɛ/
+melody; tune – aumee – /ˈäʌ̯mɛː/
+homeland; motherland – aunue – /ˈäʌ̯nui̯/
+trailer – aupo – /ˈäʌ̯pɔ/ [ˈäʌ̯bɔ]
+gap; cleavage – aupukä – /äʌ̯ˈpʌkæ/ [äʌ̯ˈbʌgæ]
+cabin; inn; lodge – ausa – /ˈäʌ̯sä/
+supervisor – ausii – /ˈäʌ̯ʃi/
+language; dialect – äviimi – /æˈviːmi/
+label; tag; logo – dädime – /dæˈdimɛ/
+source – dae – /däi̯/
+heritage – daenokuu – /däi̯ˈnɔkʌː/ [däi̯ˈnɔgʌː]
+player – dairja – /ˈdäi̯rjä/
+rail – däjee – /ˈdæjɛː/
+dungeon – däl – /dæl/
+cabinet; drawer – dame – /ˈdämɛ/
+dream – dann – /dän/
+committee – danoom – /ˈdänɔːm/
+layout; diagram – däsiäo – /dæˈʃæɔ/
+flesh – dasuee – /ˈdäʃɛː/
+cavity – daupai – /ˈdäʌ̯päi̯/ [ˈdäʌ̯bäi̯]
+suburb – dautee – /ˈdäʌ̯tɛː/
+circulation – däviido – /dæˈviːdɔ/
+bow (decorative material) – deebä – /ˈdɛːbæ/
+stall; kiosk – deebe – /ˈdɛːbɛ/
+death – deehedo – /dɛːˈhɛdɔ/
+pattern; rhythm – deem – /dɛːm/
+star; celebrity – deen – /dɛːn/
+comet – deen opee – /dɛːn ˈɔpɛː/ [dɛːn ˈɔbɛː]
+politics – deenoo – /ˈdɛːnɔː/
+politician – deenooja – /dɛːˈnɔːjä/
+roster – deenu – /ˈdɛːnʌ/
+cliff – deeso – /ˈdɛːsɔ/
+swamp – deesui – /ˈdɛːʃi/
+basket – deeu – /ˈdɛːʌ/
+price; fee; salary – degae – /ˈdɛgäi̯/
+library – deka – /ˈdɛkä/ [ˈdɛgä]
+sorrow – dem – /dɛm/
+boot – dema – /ˈdɛmä/
+danger – demaa – /ˈdɛmäː/
+mess; rubble; debris – deme – /ˈdɛmɛ/
+beak – demibä – /dɛˈmibæ/
+festival – demuu – /ˈdɛmʌː/
+hazard – deron – /ˈdɛrɔn/
+glue; paste – derr – /dɛr/
+match (for fire) – deva – /ˈdɛvä/
+pet – dieen – /ˈdiɛːn/ [djɛːn]
+owner – diija – /ˈdiːjä/
+dagger – diilo – /ˈdiːlɔ/
+neighbor – diim – /diːm/
+tin – diin – /diːn/
+boulder; stone – diipä – /ˈdiːpæ/ [ˈdiːbæ]
+manner – diituum – /ˈdiːtʌːm/
+anxiety – dijoodae – /diˈjɔːdäi̯/
+match (game); contest – diku – /ˈdikʌ/ [ˈdigʌ]
+economy – dill – /dil/
+guy – dim – /dim/
+sum – dimä – /ˈdimæ/
+whip – din – /din/
+margin – dipi – /ˈdipi/ [ˈdibi]
+effort – dipoo – /ˈdipɔː/ [ˈdibɔː]
+bulb (plant root) – dipue – /ˈdipui̯/ [ˈdibui̯]
+elbow – dise – /ˈdisɛ/
+peninsula – disue – /ˈdisui̯/
+breast – ditii – /ˈditiː/
+program – do – /dɔ/
+tax; tariff – doll – /dɔl/
+triangle – domi – /ˈdɔmi/
+devil – donn – /dɔn/
+appearance (looks) – doo dirr – /dɔː dir/
+fungus – dookaakä – /dɔːˈkäːkæ/ [dɔːˈgäːgæ]
+spear; lance; pike – doolä – /ˈdɔːlæ/
+lip – doomi – /ˈdɔːmi/
+road; street; avenue; pavement – doomiitaimm – /dɔːˈmiːtäi̯m/
+sewer – dosuupo – /dɔˈsʌːpɔ/ [dɔˈʃʌbɔ]
+taxi; cab – dovä – /ˈdɔvæ/
+dump – dubee – /ˈdʌbɛː/
+exam – dudo – /ˈdʌdɔ/
+back (of body); back (reverse side) – due – /dui̯/
+magic – dukoo – /ˈdʌkɔː/ [ˈdʌgɔː]
+atom – duku – /ˈdʌkʌ/ [ˈdʌgʌ]
+luck – dulodae – /dʌˈlɔdäi̯/
+preparation – dumdo – /ˈdʌmdɔ/
+granite – dumoge – /dʌˈmɔgɛ/
+fury – dunn – /dʌn/
+picture – duno – /ˈdʌnɔ/
+file; record (written account) – dusioo – /ˈdʌʃɔː/
+agony – dutii – /ˈdʌtiː/
+magnet – duudi – /ˈdʌːdi/
+ceremony; ritual – duujimu – /dʌːˈjimʌ/
+rubber – duukodee – /dʌːˈkɔdɛː/ [dʌːˈgɔdɛː]
+premiere – duupeeko – /dʌːˈpɛːkɔ/ [dʌːˈbɛːgɔ]
+pastry – ebu – /ˈɛbʌ/
+olive – eebee – /ˈɛːbɛː/
+orchard; plantation – eeha – /ˈɛːhä/
+authority – eehä – /ˈɛːhæ/
+cork – eehirr – /ˈɛːhir/
+infection – eejädo – /ɛːˈjædɔ/
+species – eeji – /ˈɛːji/
+trouble; problem – eeme – /ˈɛːmɛ/
+vinegar – eemui – /ˈɛːmui̯/
+button (fastener for clothing) – eeno – /ˈɛːnɔ/
+intestine – eer – /ɛːr/
+controversy – eerä – /ˈɛːræ/
+brother – eesie – /ˈɛːʃɛ/
+apology – eeso – /ˈɛːsɔ/
+lobby – eesuetaa – /ɛːˈʃɛtäː/
+altitude – eetin – /ˈɛːtin/
+traffic – egee – /ˈɛgɛː/
+coincidence – ehal – /ˈɛhäl/
+sermon – ehee – /ˈɛhɛː/
+harvest; autumn – ehuu – /ˈɛhʌː/
+axe – eje – /ˈɛjɛ/
+puzzle; maze – eji – /ˈɛji/
+cord – ekainn – /ˈɛkäi̯n/ [ˈɛgäi̯n]
+reception (of office or hotel) – ekii – /ˈɛkiː/ [ˈɛgiː]
+patient; victim – ekoä – /ɛˈkɔæ/ [ɛˈgɔæ]
+yogurt – ele – /ˈɛlɛ/
+benefit – elo – /ˈɛlɔ/
+peach – emiim – /ˈɛmiːm/
+center; core; nucleus; embryo – emm – /ɛm/
+organization – enikuilpo – /ˌɛniˈkui̯lpɔ/ [ˌɛniˈgui̯lpɔ]
+cause – esähaa – /ɛˈsæhäː/
+east – esi – /ˈɛsi/ [ɛʃ]
+fact – esidii – /ɛˈsidiː/ [ɛʃˈdiː]
+prince – esiee – /ˈɛʃɛː/
+chime – eve – /ˈɛvɛ/
+comfort – evee – /ˈɛvɛː/
+alarm; siren – evue – /ˈɛvui̯/
+wage; salary – faal – /fäːl/
+sign; signal – faalee – /ˈfäːlɛː/
+allergy – faan – /fäːn/
+election; referendum – faaniil – /ˈfäːniːl/
+campaign – fado – /ˈfädɔ/
+plan; strategy (plan); tactic – fae – /fäi̯/
+arena; stadium – faemii – /ˈfäi̯miː/
+behavior – faevedo – /fäi̯ˈvɛdɔ/
+camp; shack – fägau – /ˈfægäʌ̯/
+phrase; slogan – fähe – /ˈfæhɛ/
+foliage – fahi – /ˈfähi/
+dictionary – faiso – /ˈfäi̯sɔ/
+sibling – fajä – /ˈfäjæ/
+legend; myth – fäko – /ˈfækɔ/ [ˈfægɔ]
+bag – fal – /fäl/
+father – fäm – /fæm/
+stake – fänn – /fæn/
+bastard – fänoo – /ˈfænɔː/
+wealth – färr – /fær/
+offer – fau – /fäʌ̯/
+stitch – fauju – /ˈfäʌ̯jʌ/
+experience – fautuudo – /fäʌ̯ˈtʌːdɔ/
+path; track; direction (way) – feaa – /ˈfɛäː/
+score – fedee – /ˈfɛdɛː/
+sister – feebä – /ˈfɛːbæ/
+article (text) – feee – /ˈfɛːɛ/
+pearl – feehee – /ˈfɛːhɛː/
+tense – feejau – /ˈfɛːjäʌ̯/
+privilege – feeji – /ˈfɛːji/
+series – feekä – /ˈfɛːkæ/ [ˈfɛːgæ]
+ring – feel – /fɛːl/
+bone – feelä – /ˈfɛːlæ/
+cloud; mist – feem – /fɛːm/
+rainbow – feem tepau – /fɛːm ˈtɛpäʌ̯/ [fɛːm ˈtɛbäʌ̯]
+soldier; guerrilla – feemoo – /ˈfɛːmɔː/
+lust – feen – /fɛːn/
+spike – feerause – /fɛːˈräʌ̯sɛ/
+mass – feerue – /ˈfɛːrui̯/
+arsenal – feetell – /ˈfɛːtɛl/
+moment – fehuu – /ˈfɛhʌː/
+spine – fel – /fɛl/
+civilization – femädai – /fɛˈmædäi̯/
+land; earth; planet – femm – /fɛm/
+fan (enthusiast) – fesi – /ˈfɛsi/ [fɛʃ]
+hose – fesii – /ˈfɛʃi/
+change – fevauvindo – /ˌfɛväʌ̯ˈvindɔ/
+corpse – fihae – /ˈfihäi̯/
+tag – fihuell – /ˈfihui̯l/
+web – fiibä – /ˈfiːbæ/
+medium – fiiii – /ˈfiːiː/
+hip – fiimee – /ˈfiːmɛː/
+fiction – fiisijä – /fiːˈsijæ/ [fiːˈʃjæ]
+treasure – fiisu – /ˈfiːsʌ/ [fiːʃ]
+mud – fiki – /ˈfiki/ [ˈfigi]
+massacre; genocide – fikii – /ˈfikiː/ [ˈfigiː]
+debt – fiko – /ˈfikɔ/ [ˈfigɔ]
+leather – filiil – /ˈfiliːl/
+assassin – fimeeja – /fiˈmɛːjä/
+dress; costume; uniform – fimi – /ˈfimi/
+felony – fimii – /ˈfimiː/
+environment (natural world) – fimm – /fim/
+comment – finee – /ˈfinɛː/
+exit – fipä – /ˈfipæ/ [ˈfibæ]
+breed – fipivul – /fiˈpivʌl/ [fiˈbivʌl]
+insurance – fipolpo – /fiˈpɔlpɔ/ [fiˈbɔlpɔ]
+face; forehead; brow; side; front; facade – fir – /fir/
+palm (of hand) – fir no – /fir nɔ/
+affection – fisui – /ˈfiʃi/
+pan; saucepan – fisum – /ˈfisʌm/ [fiʃm]
+thief – fisuu – /ˈfiʃʌ/
+parliament – fiti – /ˈfiti/
+parcel; package; bundle; packet – foba – /ˈfɔbä/
+fence – fodäjo – /fɔˈdæjɔ/
+hedge – fodäjo oa – /fɔˈdæjɔ ˈɔä/
+season (quarter of the year) – foll – /fɔl/
+process; procedure – fom – /fɔm/
+salad – fome – /ˈfɔmɛ/
+parent – fonoo – /ˈfɔnɔː/
+adventure – fool – /fɔːl/
+bay; cove – foome – /ˈfɔːmɛ/
+hour – foomi – /ˈfɔːmi/
+plaque – fosau – /ˈfɔsäʌ̯/
+cut – fue – /fui̯/
+country (rural area) – fuer – /fui̯r/
+fluke; accident – fuhae – /ˈfʌhäi̯/
+recipe – fuigee – /ˈfui̯gɛː/
+torch – fuiiuu – /fʌˈiːʌː/
+fork – fuill – /fui̯l/
+sun; day – fuimm – /fui̯m/
+witch – full – /fʌl/
+decision – fumdo – /ˈfʌmdɔ/
+impulse – fupa – /ˈfʌpä/ [ˈfʌbä]
+story; fable; plot; narrative; literature; prose; genetics – furi – /ˈfʌri/
+history – furi mimura – /ˈfʌri miˈmʌrä/
+candy; vagina (slang) – fusii – /ˈfʌʃi/
+brothel – fuul – /fʌːl/
+month – hä – /hæ/
+eye; eyeball – haa – /häː/
+discovery – hado – /ˈhädɔ/
+perception – hado – /ˈhädɔ/
+midriff – hahämae – /häˈhæmäi̯/
+pear – hähii – /ˈhæhiː/
+wedge – hair – /häi̯r/
+locker; trunk (large box) – häjä – /ˈhæjæ/
+help – häll – /hæl/
+space (beyond Earth) – hämm – /hæm/
+moss – haninn – /ˈhänin/
+dish; plate – harr – /här/
+grandmother – häso – /ˈhæsɔ/
+fossil – häsoopo – /hæˈsɔːpɔ/ [hæˈsɔːbɔ]
+trap – hata – /ˈhätä/
+job; task – hau – /häʌ̯/
+shade; shadow; hue; umbrella – haull – /häʌ̯l/
+effect – haumo – /ˈhäʌ̯mɔ/
+parlor; salon – haupuur – /ˈhäʌ̯pʌːr/ [ˈhäʌ̯bʌːr]
+party – haur – /häʌ̯r/
+nation – hebi – /ˈhɛbi/
+male; guy – heel – /hɛːl/
+pepper – heem – /hɛːm/
+husband – heen – /hɛːn/
+driver – heenoja – /hɛːˈnɔjä/
+vase – heesie – /ˈhɛːʃɛ/
+hill; slope; slant – hemm – /hɛm/
+bridge; platform – hemoo – /ˈhɛmɔː/
+tomb – hen – /hɛn/
+course (direction of travel); career – heno – /ˈhɛnɔ/
+loser – here – /ˈhɛrɛ/
+tuna – higi – /ˈhigi/
+poison; venom – higo – /ˈhigɔ/
+combat – hiil – /hiːl/
+possibility – hiileedai – /hiːˈlɛːdäi̯/
+country (nation); state (province; country) – hiim – /hiːm/
+limit; border; boundary – hiimi – /ˈhiːmi/
+idiot; fool – hiir – /hiːr/
+state (condition); condition (state) – hiiri – /ˈhiːri/
+heel – hiisuu – /ˈhiːʃʌ/
+catalog – hilooji – /hiˈlɔːji/
+cost – hindo – /ˈhindɔ/
+shooting star – hinii – /ˈhiniː/
+plug – hipoo – /ˈhipɔː/ [ˈhibɔː]
+ledge – hire – /ˈhirɛ/
+strap – hirin – /ˈhirin/
+drain – hise – /ˈhisɛ/
+lizard – hobi – /ˈhɔbi/
+clothes; clothing; garment – hogosuä – /hɔˈgɔʃæ/
+rake – hohii – /ˈhɔhiː/
+result; outcome – hojeesä – /hɔˈjɛːsæ/
+meeting – hokopo – /hɔˈkɔpɔ/ [hɔˈgɔbɔ]
+oil; grease – hol – /hɔl/
+desert – holue – /ˈhɔlui̯/
+trial – hom – /hɔm/
+topic – homi – /ˈhɔmi/
+breakfast – hoodä – /ˈhɔːdæ/
+fox – hoodi – /ˈhɔːdi/
+chef; cook – hooja – /ˈhɔːjä/
+color – hool – /hɔːl/
+lipstick – hool doomi – /hɔːl ˈdɔːmi/
+lock – hoon – /hɔːn/
+locksmith – hoonja – /ˈhɔːnjä/
+shovel – hoopuu – /ˈhɔːpʌː/ [ˈhɔːbʌː]
+jungle – horu – /ˈhɔrʌ/
+warrant – hosiim – /ˈhɔsiːm/ [ˈhɔʃim]
+spinach – hovin – /ˈhɔvin/
+priest – hovo – /ˈhɔvɔ/
+scrap – huejoo – /ˈhui̯jɔː/
+ink – huem – /hui̯m/
+basement; cellar – huerr – /hui̯r/
+academy – huide – /ˈhui̯dɛ/
+urine – huigoo – /ˈhui̯gɔː/
+fuel – hujo – /ˈhʌjɔ/
+tongue – hul – /hʌl/
+person – hum – /hʌm/
+member – huu – /hʌː/
+glove – huusuu – /ˈhʌːʃʌ/
+sense – ibee – /ˈibɛː/
+echo – ibell – /ˈibɛl/
+plane – ibii – /ˈibiː/
+alphabet – ibue – /ˈibui̯/
+shelter – idoo – /ˈidɔː/
+pandemic – igen – /ˈigɛn/
+novel – igo – /ˈigɔ/
+handcuff – iiba – /ˈiːbä/
+gum – iibae – /ˈiːbäi̯/
+switch – iido – /ˈiːdɔ/
+lightning – iiho – /ˈiːhɔ/
+champion – iihuumii – /iːˈhʌːmiː/
+dam – iije – /ˈiːjɛ/
+company – iikusodo – /ˌiːkʌˈsɔdɔ/ [ˌiːgʌˈsɔdɔ]
+birth – iiluusuull – /iːˈlʌːʃʌl/
+scissors – iim – /iːm/
+period (duration of time) – iimä – /ˈiːmæ/
+instrument; tool; device; weapon; gadget – iimee – /ˈiːmɛː/
+membrane – iimu – /ˈiːmʌ/
+tone; pitch – iiner – /ˈiːnɛr/
+clay – iir – /iːr/
+average – iisiin – /ˈiːʃin/
+wool – iisuemm – /ˈiːʃɛm/
+casino – iitä – /ˈiːtæ/
+amount; quantity – iivi – /ˈiːvi/
+greed – iivui – /ˈiːvui̯/
+gold – ijee – /ˈijɛː/
+sale – ijue – /ˈijui̯/
+vendor – ijueja – /iˈjui̯jä/
+candle – ikä – /ˈikæ/ [ˈigæ]
+message – ike – /ˈikɛ/ [ˈigɛ]
+argument – ikeldo – /iˈkɛldɔ/ [iˈgɛldɔ]
+expert; specialist – ikui – /ˈikui̯/ [ˈigui̯]
+canyon – ileepa – /iˈlɛːpä/ [iˈlɛːbä]
+flavor – im – /im/
+dot – imi – /ˈimi/
+hay – iminiim – /iˈminiːm/
+rose – imuu – /ˈimʌː/
+hair (of body); fur – inoo – /ˈinɔː/
+budget – ipä – /ˈipæ/ [ˈibæ]
+mat – ipi – /ˈipi/ [ˈibi]
+text; prose – ipiim – /ˈipiːm/ [ˈibiːm]
+guess – ir – /ir/
+heat – iradae – /iˈrädäi̯/
+tab – iree – /ˈirɛː/
+wife – isä – /ˈisæ/
+stem – ise – /ˈisɛ/
+butter – ituu – /ˈitʌː/
+curtain – ivä – /ˈivæ/
+base; ground – ivetu – /iˈvɛtʌ/
+level (degree; stage) – jä – /jæ/
+damage – jaakiin – /ˈjäːkiːn/ [ˈjäːgiːn]
+image – jaamu – /ˈjäːmʌ/
+mast – jaamuul – /ˈjäːmʌːl/
+store; shop; business – jaan – /jäːn/
+nose; point – jaar – /jäːr/
+bruise – jaaraum – /ˈjäːräʌ̯m/
+family (children and parents); family (related by blood) – jäbii – /ˈjæbiː/
+ancestor – jäbii fi – /ˈjæbiː fi/
+hangover – jäbohee – /jæˈbɔhɛː/
+service – jado – /ˈjädɔ/
+house; family (children and parents); tribe – jae – /jäi̯/
+hospital – jae niji – /jäi̯ ˈniji/
+fly – jael – /jäi̯l/
+mansion – jaevau – /ˈjäi̯väʌ̯/
+policy – jägedo – /jæˈgɛdɔ/
+scale (instrument for weighing) – jaibee – /ˈjäi̯bɛː/
+tablet; slab; brick – jaiimo – /jäi̯ˈimɔ/
+niece – jaimasuaa – /jäi̯ˈmäʃäː/
+second (time) – jaimm – /jäi̯m/
+cake – jain – /jäi̯n/
+blade; razor – jaisuoo – /ˈjäi̯ʃɔː/
+cauldron; kettle – jaju – /ˈjäjʌ/
+respect – jäkaa – /ˈjækäː/ [ˈjægäː]
+blouse – jäko – /ˈjækɔ/ [ˈjægɔ]
+pasta – jäkoo – /ˈjækɔː/ [ˈjægɔː]
+dealer – jälja – /ˈjæljä/
+tray; platter – jall – /jäl/
+giant – jam – /jäm/
+step (one level of stairs) – jäm – /jæm/
+trip; tour – jän – /jæn/
+genetics – japo – /ˈjäpɔ/ [ˈjäbɔ]
+miracle – jasiee – /ˈjäʃɛː/
+crust – jätarr – /ˈjætär/
+camera – jaugaum – /ˈjäʌ̯gäʌ̯m/
+thing; stuff; matter (substance; material); item – je – /jɛ/
+silk – jeegi – /ˈjɛːgi/
+bachelor – jeemä – /ˈjɛːmæ/
+dragon – jeemaroo – /jɛːˈmärɔː/
+crab – jeemee – /ˈjɛːmɛː/
+lobster – jeemee vaji – /ˈjɛːmɛː ˈväji/ [ˈjɛːmɛː ˈfäji]
+step (footstep) – jeen – /jɛːn/
+gun; firearm – jeene – /ˈjɛːnɛ/
+evidence – jeenidae – /jɛːˈnidäi̯/
+magazine – jeer – /jɛːr/
+hierarchy – jeesa – /ˈjɛːsä/
+curl – jehee – /ˈjɛhɛː/
+earring – jehee päl – /ˈjɛhɛː pæl/
+crest – jeji – /ˈjɛji/
+corn – jekau – /ˈjɛkäʌ̯/ [ˈjɛgäʌ̯]
+court (of law) – jeku – /ˈjɛkʌ/ [ˈjɛgʌ]
+reflection – jepädo – /jɛˈpædɔ/ [jɛˈbædɔ]
+education – jesiii – /ˈjɛʃiː/
+dome – jetee – /ˈjɛtɛː/
+nephew – jiailai – /jiˈäi̯läi̯/ [jjäi̯ˈläi̯]
+baby – jidirr – /ˈjidir/
+reward; award; prize; medal – jiibu – /ˈjiːbʌ/
+child (young human being); child (son or daughter of any age) – jiiduu – /ˈjiːdʌː/
+bubble – jiiki – /ˈjiːki/ [ˈjiːgi]
+portion; segment – jiiko – /ˈjiːkɔ/ [ˈjiːgɔ]
+curve; arc – jiilenn – /ˈjiːlɛn/
+dynamics – jiilitee – /jiːˈlitɛː/
+cement – jiima – /ˈjiːmä/
+lake – jiinä – /ˈjiːnæ/
+chin; jaw – jiir – /jiːr/
+lamb – jiisuä – /ˈjiːʃæ/
+chapter – jikii – /ˈjikiː/ [ˈjigiː]
+luggage; baggage – jikumm – /ˈjikʌm/ [ˈjigʌm]
+failure – jildo – /ˈjildɔ/
+top (clothing) – jilill – /ˈjilil/
+skull – jime – /ˈjimɛ/
+frog – jimee – /ˈjimɛː/
+screw – jin – /jin/
+grandfather – jipa – /ˈjipä/ [ˈjibä]
+trail – jipi – /ˈjipi/ [ˈjibi]
+hunter – jirja – /ˈjirjä/
+sauce – jiso – /ˈjisɔ/
+system – jisuepoo – /jiˈsui̯pɔː/ [jiˈsui̯bɔː]
+shed – jogu – /ˈjɔgʌ/
+information; data – johii – /ˈjɔhiː/
+skeptic – jojil – /ˈjɔjil/
+rod; shaft; bar; cylinder; cane; whip; axle – joko – /ˈjɔkɔ/ [ˈjɔgɔ]
+orgasm – jolämm – /ˈjɔlæm/
+bill; check – joll – /jɔl/
+flame – jomi – /ˈjɔmi/
+life (lifetime); life (soul) – jon – /jɔn/
+sample – joner – /ˈjɔnɛr/
+treason – jonihee – /jɔˈnihɛː/
+law – joon – /jɔːn/
+lawyer – joonja – /ˈjɔːnjä/
+analysis – joor – /jɔːr/
+spark – jopo – /ˈjɔpɔ/ [ˈjɔbɔ]
+propaganda – jorr – /jɔr/
+voucher – josue – /ˈjɔʃɛ/
+drill – juesio – /ˈjui̯ʃɔ/
+stick; bat (club) – juga – /ˈjʌgä/
+art – jugi – /ˈjʌgi/
+artist – jugija – /jʌˈgijä/
+tailor – juigaa – /ˈjui̯gäː/
+militia – juigo – /ˈjui̯gɔ/
+look – juijuu – /ˈjui̯jʌː/
+site – juin – /jui̯n/
+twilight – jukapii – /jʌˈkäpiː/ [jʌˈgäbiː]
+fin (of fish) – jul – /jʌl/
+footprint – jumi jeen – /ˈjʌmi jɛːn/
+pick – junn – /jʌn/
+knowledge – jupo – /ˈjʌpɔ/ [ˈjʌbɔ]
+wood; pole – jurä – /ˈjʌræ/
+eagle – jusa – /ˈjʌsä/
+vest – juugä – /ˈjʌːgæ/
+tunnel – juukue – /ˈjʌːkui̯/ [ˈjʌːgui̯]
+description – juul – /jʌːl/
+order – juunpo – /ˈjʌːnpɔ/
+resident; tenant; citizen – juur – /jʌːr/
+sock – juutasaemm – /jʌːˈtäsäi̯m/
+pumpkin – kaabe – /ˈkäːbɛ/
+compost; fertilizer – kaagaa – /ˈkäːgäː/
+coffee – kaal – /käːl/
+energy (strength; stamina) – kaam – /käːm/
+valley – kaanuupoo – /käːˈnʌːpɔː/ [käːˈnʌːbɔː]
+protagonist – kaaromm – /ˈkäːrɔm/
+lottery – kädä – /ˈkædæ/
+sheep – kade – /ˈkädɛ/
+thought – kädo – /ˈkædɔ/
+queen – kae – /käi̯/
+remains; remnant – kaekuu – /ˈkäi̯kʌː/ [ˈkäi̯gʌː]
+stable – kägä – /ˈkægæ/
+hunger – käke – /ˈkækɛ/ [ˈkægɛ]
+robe; gown – kal – /käl/
+reservation – kamdo – /ˈkämdɔ/
+bracket – kame – /ˈkämɛ/
+embassy – kämebi – /kæˈmɛbi/
+squirrel – kamee – /ˈkämɛː/
+puddle – kämiin – /ˈkæmiːn/
+event (occurrence) – kämm – /kæm/
+insurgent; rebel – kamuur – /ˈkämʌːr/
+reason; logic – kän – /kæn/
+kid – kann – /kän/
+sin; crime – kapae – /ˈkäpäi̯/ [ˈkäbäi̯]
+angle; corner – kär – /kær/
+raft – käruu – /ˈkærʌː/
+bureaucrat – kase – /ˈkäsɛ/
+wit – käsiin – /ˈkæsiːn/ [ˈkæʃin]
+absence – kasuum – /ˈkäsʌːm/ [ˈkäʃʌm]
+cafe – kätu kaal – /ˈkætʌ käːl/
+trumpet – kaubauro – /käʌ̯ˈbäʌ̯rɔ/
+hood – kaudi – /ˈkäʌ̯di/
+layer; sheet – kaull – /käʌ̯l/
+bud; embryo – kaumii – /ˈkäʌ̯miː/
+coast; rib – kaun – /käʌ̯n/
+document – kaupo – /ˈkäʌ̯pɔ/ [ˈkäʌ̯bɔ]
+race (competition); marathon – kävimo – /kæˈvimɔ/
+start; beginning – ke – /kɛ/
+vein – kebii – /ˈkɛbiː/
+penis – kededimm – /kɛˈdɛdim/
+click – keego – /ˈkɛːgɔ/
+hook – keehii – /ˈkɛːhiː/
+exhibit – keejee – /ˈkɛːjɛː/
+anchor – keekae – /ˈkɛːkäi̯/ [ˈkɛːgäi̯]
+junk – keeke – /ˈkɛːkɛ/ [ˈkɛːgɛ]
+battle – keel – /kɛːl/
+visit – keema – /ˈkɛːmä/
+tribute – keeme – /ˈkɛːmɛ/
+defense – keerdo – /ˈkɛːrdɔ/
+stereotype – keeto – /ˈkɛːtɔ/
+pulse – keja – /ˈkɛjä/
+god – keji – /ˈkɛji/
+vine – kejii – /ˈkɛjiː/
+rumor; gossip – kekä – /ˈkɛkæ/ [ˈkɛgæ]
+venue – keko – /ˈkɛkɔ/ [ˈkɛgɔ]
+victory – keldo – /ˈkɛldɔ/
+piano – kemäm – /ˈkɛmæm/
+vision – kemi – /ˈkɛmi/
+record – kenpo – /ˈkɛnpɔ/
+saliva – kenuur – /ˈkɛnʌːr/
+civilian – kepuvi – /kɛˈpʌvi/ [kɛˈbʌvi]
+guilt – kesenn – /ˈkɛsɛn/
+leisure; recreation – ketenn – /ˈkɛtɛn/
+kit – kibaumm – /ˈkibäʌ̯m/
+spectrum – kibekim – /kiˈbɛkim/ [kiˈbɛgim]
+courtesy – kiboo – /ˈkibɔː/
+elf – kidi – /ˈkidi/
+master; lord; boss – kidosioo – /kiˈdɔʃɔː/
+loaf; cake – kigem – /ˈkigɛm/
+sky – kii – /kiː/
+university – kiigar – /ˈkiːgär/
+wave (ocean); surf – kiige – /ˈkiːgɛ/
+trauma – kiil – /kiːl/
+fashion – kiili – /ˈkiːli/
+lawn – kiilo – /ˈkiːlɔ/
+money – kiim – /kiːm/
+north – kiin – /kiːn/
+symbol; flag – kiipe – /ˈkiːpɛ/ [ˈkiːbɛ]
+molecule – kiir – /kiːr/
+heart; soul – kiji – /ˈkiji/
+word; name; title – kim – /kim/
+armpit – kime – /ˈkimɛ/
+burger – kinä – /ˈkinæ/
+zoo – kioom – /ˈkiɔːm/ [kjɔːm]
+demise – kipau – /ˈkipäʌ̯/ [ˈkibäʌ̯]
+stand – kipo – /ˈkipɔ/ [ˈkibɔ]
+rag – kire – /ˈkirɛ/
+bead – kisio – /ˈkiʃɔ/
+security – kivoo – /ˈkivɔː/
+hawk – kobi – /ˈkɔbi/
+cupboard – kobu – /ˈkɔbʌ/
+liquid – kogi – /ˈkɔgi/
+horn – koha – /ˈkɔhä/
+stamp – koko – /ˈkɔkɔ/ [ˈkɔgɔ]
+theme – kol – /kɔl/
+school – koo – /kɔː/
+pleasure – kooldo – /ˈkɔːldɔ/
+fish – koom – /kɔːm/
+shark – koom jam – /kɔːm jäm/
+linen; fabric; textile; napkin – koomu – /ˈkɔːmʌ/
+grave – koosi – /ˈkɔːsi/ [kɔːʃ]
+graveyard – koosidi – /kɔːˈsidi/ [kɔːʃˈdi]
+foil – koosu – /ˈkɔːsʌ/ [kɔːʃ]
+fang – kope – /ˈkɔpɛ/ [ˈkɔbɛ]
+chest – kopii – /ˈkɔpiː/ [ˈkɔbiː]
+emphasis – kosuumdo – /kɔˈʃʌmdɔ/
+point – kue – /kui̯/
+factory; mill; laboratory – kueki – /ˈkui̯ki/ [ˈkui̯gi]
+panorama – kuesieesuaa – /kui̯ˈʃɛːʃäː/
+compassion; sympathy – kuevä – /ˈkui̯væ/
+dancer – kuibooja – /kui̯ˈbɔːjä/
+spider – kuigo – /ˈkui̯gɔ/
+stream; creek – kull – /kʌl/
+coat; jacket; layer; cloak – kunee – /ˈkʌnɛː/
+mule – kunu – /ˈkʌnʌ/
+candidate – kusiumä – /kʌˈʃʌmæ/
+butt – kusuaadii – /kʌˈʃäːdiː/
+scope; extent – kuuee – /ˈkʌːɛː/
+block; cube – kuul – /kʌːl/
+pub; bar (pub); inn – kuum – /kʌːm/
+liquor – kuun – /kʌːn/
+ornament; accessory; fixture – kuupe – /ˈkʌːpɛ/ [ˈkʌːbɛ]
+happiness – kuusaadae – /kʌːˈsäːdäi̯/
+chicken; fowl; poultry – kuusel – /ˈkʌːsɛl/
+mother – la – /lä/
+space (empty area); room (space) – laal – /läːl/
+future; destiny; fate – laar – /läːr/
+avenue – lädaa – /ˈlædäː/
+movement; motion – lädo – /ˈlædɔ/
+note – laebi – /ˈläi̯bi/
+fertility – laeridae – /läi̯ˈridäi̯/
+wind; breeze – laeso – /ˈläi̯sɔ/
+violin – lahe – /ˈlähɛ/
+seed; grain; egg; semen – laimä – /ˈläi̯mæ/
+cartoon – lal – /läl/
+noon; midday; lunch – läloo – /ˈlælɔː/
+berry – lamee – /ˈlämɛː/
+orchestra – län – /læn/
+compass – lar – /lär/
+chain; link – lärä – /ˈlæræ/
+dinner – lari – /ˈläri/
+subtlety – läsimdai – /læˈsimdäi̯/ [læʃmˈdäi̯]
+herd; flock – lauje – /ˈläʌ̯jɛ/
+dictator – leeki – /ˈlɛːki/ [ˈlɛːgi]
+joke – leeli – /ˈlɛːli/
+petal – leeno – /ˈlɛːnɔ/
+bow (weapon) – leer – /lɛːr/
+race (ethnicity); ethnicity – leetall – /ˈlɛːtäl/
+study – leetudo – /lɛːˈtʌdɔ/
+oval – lehaesau – /lɛˈhäi̯säʌ̯/
+lion – lejim – /ˈlɛjim/
+seizure – lekä – /ˈlɛkæ/ [ˈlɛgæ]
+gravel – lel – /lɛl/
+spouse – lelee – /ˈlɛlɛː/
+cheese – lem – /lɛm/
+return – len – /lɛn/
+trousers; pants – lenoo – /ˈlɛnɔː/
+mathematics – leri – /ˈlɛri/
+frenzy; orgasm – leso – /ˈlɛsɔ/
+spa (mineral spring); resort – levae – /ˈlɛväi̯/
+criteria – lidal – /ˈlidäl/
+prison; jail – liihedii – /liːˈhɛdiː/
+prisoner – liihediija – /ˌliːhɛˈdiːjä/
+destiny; fate – liil – /liːl/
+number – liim – /liːm/
+blood – liinae – /ˈliːnäi̯/
+belly – liir – /liːr/
+market; mall – liisi – /ˈliːsi/ [liːʃ]
+atmosphere – liisii – /ˈliːsiː/ [ˈliːʃi]
+disease; plague; defect – lilaa – /ˈliläː/
+public – lill – /lil/
+sound; noise – limä – /ˈlimæ/
+music – limä kuiboo – /ˈlimæ ˈkui̯bɔː/
+oasis – limi – /ˈlimi/
+company – limii – /ˈlimiː/
+year – linn – /lin/
+decade – linn mi – /lin mi/
+bunker – lino – /ˈlinɔ/
+rust – liro – /ˈlirɔ/
+sadness – lisiadae – /liˈʃädäi̯/
+map; menu; chart; graph; diagram – litau – /ˈlitäʌ̯/
+table; bench; desk – litee – /ˈlitɛː/
+drug; medicine – loboo – /ˈlɔbɔː/
+drugstore – loboodi – /lɔˈbɔːdi/
+manager – lobutija – /ˌlɔbʌˈtijä/
+lesbian – lohii – /ˈlɔhiː/
+discourse; rhetoric – lohuu – /ˈlɔhʌː/
+pond; pool – lol – /lɔl/
+jewel; gem – lomoo – /ˈlɔmɔː/
+beard; mane – lon – /lɔn/
+alibi – lonee – /ˈlɔnɛː/
+chief – lonoo – /ˈlɔnɔː/
+ginger – lonoosee – /lɔˈnɔːsɛː/
+backpack – loogeen – /ˈlɔːgɛːn/
+carriage – loom – /lɔːm/
+ray (of light); radius – loomo – /ˈlɔːmɔ/
+tool; appliance; fixture – loor – /lɔːr/
+courier – looru – /ˈlɔːrʌ/
+wallet – losee – /ˈlɔsɛː/
+clash – loso – /ˈlɔsɔ/
+custom; tradition – lubeedaem – /lʌˈbɛːdäi̯m/
+seaweed – lume – /ˈlʌmɛ/
+will – lumm – /lʌm/
+disaster; catastrophe – luniin – /ˈlʌniːn/
+ability – luudae – /ˈlʌːdäi̯/
+paint – luul – /lʌːl/
+painter – luulja – /ˈlʌːljä/
+shell – luum – /lʌːm/
+joint – luunpo – /ˈlʌːnpɔ/
+fluid – luuvee – /ˈlʌːvɛː/
+hatch – luvee – /ˈlʌvɛː/
+woman; mother – maa – /mäː/
+wire – maahue – /ˈmäːhui̯/
+zombie – maasiu – /ˈmäːʃʌ/
+pen – mäbe – /ˈmæbɛ/
+vehicle – madi – /ˈmädi/
+permission – mädo – /ˈmædɔ/
+scar – maell – /mäi̯l/
+vagina – maerr – /mäi̯r/
+surge – magä – /ˈmägæ/
+owl – mähe – /ˈmæhɛ/
+hut – maido – /ˈmäi̯dɔ/
+memory – maijaa – /ˈmäi̯jäː/
+mask; veil – mairomm – /ˈmäi̯rɔm/
+appetite – maitaa – /ˈmäi̯täː/
+darling – maive – /ˈmäi̯vɛ/
+terror – majä – /ˈmäjæ/
+dignity – maje – /ˈmäjɛ/
+axis – maji – /ˈmäji/
+tower – mäkobe – /mæˈkɔbɛ/ [mæˈgɔbɛ]
+pornography – makoja – /mäˈkɔjä/ [mäˈgɔjä]
+present; gift; souvenir – mal – /mäl/
+trader – mälja – /ˈmæljä/
+empathy – mam – /mäm/
+sling – mämä – /ˈmæmæ/
+tooth – mäme – /ˈmæmɛ/
+pirate – mämedi – /mæˈmɛdi/
+customer; patron – mämeenae – /mæˈmɛːnäi̯/
+dentist – mämeja – /mæˈmɛjä/
+letter (written document) – mämm – /mæm/
+bathroom – mämo – /ˈmæmɔ/
+tiger – mane – /ˈmänɛ/
+interview – mäni – /ˈmæni/
+care – männ – /mæn/
+hallway; corridor – mänuu – /ˈmænʌː/
+filter – mapee – /ˈmäpɛː/ [ˈmäbɛː]
+pride – mar – /mär/
+worm – märr – /mær/
+horizon – märue – /ˈmærui̯/
+steel; iron – mäsioo – /ˈmæʃɔː/
+lesson – maujii – /ˈmäʌ̯jiː/
+throat – maumm – /mäʌ̯m/
+alcohol – maunn – /mäʌ̯n/
+media – mebee – /ˈmɛbɛː/
+diaper – mebii – /ˈmɛbiː/
+front; facade – meegi – /ˈmɛːgi/
+brush; brush (for hair) – meeje – /ˈmɛːjɛ/
+card; sheet – meeko – /ˈmɛːkɔ/ [ˈmɛːgɔ]
+dream – meem – /mɛːm/
+suit; costume; uniform – meeme – /ˈmɛːmɛ/
+silence – meemi – /ˈmɛːmi/
+cell (room in a prison) – meenä – /ˈmɛːnæ/
+gauge – meepu – /ˈmɛːpʌ/ [ˈmɛːbʌ]
+experiment – meer – /mɛːr/
+carpet – meki – /ˈmɛki/ [ˈmɛgi]
+rule (law; regulation) – mem – /mɛm/
+summary – meme – /ˈmɛmɛ/
+crisis; catastrophe – memi – /ˈmɛmi/
+ruler – memja – /ˈmɛmjä/
+sex – memo – /ˈmɛmɔ/
+homosexual – memora lui – /mɛˈmɔrä lui̯/
+tide – menä – /ˈmɛnæ/
+apple – meno – /ˈmɛnɔ/
+salt – mepii – /ˈmɛpiː/ [ˈmɛbiː]
+gas – mer – /mɛr/
+choice – mesedo – /mɛˈsɛdɔ/
+wedding – mesiee – /ˈmɛʃɛː/
+tragedy – mesuä – /ˈmɛʃæ/
+palace – metoo – /ˈmɛtɔː/
+hope – miberdo – /miˈbɛrdɔ/
+mustache – midi – /ˈmidi/
+rationale – migee – /ˈmigɛː/
+wheel – migo – /ˈmigɔ/
+loss – mihido – /miˈhidɔ/
+reversal – miibaado – /miːˈbäːdɔ/
+vampire – miihä – /ˈmiːhæ/
+mistake; error – miihi – /ˈmiːhi/
+compliment – miihosee – /miːˈhɔsɛː/
+fight – miiloo – /ˈmiːlɔː/
+scene – miim – /miːm/
+sewage – miimatii – /miːˈmätiː/
+youth – miin – /miːn/
+trigger – miine – /ˈmiːnɛ/
+afternoon – miinu – /ˈmiːnʌ/
+potion; elixir – miipa – /ˈmiːpä/ [ˈmiːbä]
+bank; stock; fund – miipe – /ˈmiːpɛ/ [ˈmiːbɛ]
+dwarf – miipoo – /ˈmiːpɔː/ [ˈmiːbɔː]
+pot; bucket; tub; basin; valley – miiru – /ˈmiːrʌ/
+control – miitän – /ˈmiːtæn/
+ticket; receipt – miituu – /ˈmiːtʌː/
+bit – miive – /ˈmiːvɛ/
+tent – mijee – /ˈmijɛː/
+perfume – miji – /ˈmiji/
+diameter – mikee – /ˈmikɛː/ [ˈmigɛː]
+pencil – mikoo – /ˈmikɔː/ [ˈmigɔː]
+slice; portion – mikopo – /miˈkɔpɔ/ [miˈgɔbɔ]
+cave – mill – /mil/
+cuff – mime – /ˈmimɛ/
+silver; money – mimi – /ˈmimi/
+lens – mimo – /ˈmimɔ/
+distance; length; span – mimu – /ˈmimʌ/
+percent – mimul – /ˈmimʌl/
+top; lid; peak – mini – /ˈmini/
+eyelid – mini haa – /ˈmini häː/
+priority – minii – /ˈminiː/
+human – minn – /min/
+skill; talent; craft – minomm – /ˈminɔm/
+knife – minoo – /ˈminɔː/
+sword – minoovau – /miˈnɔːväʌ̯/
+servant; waiter – mipebi – /miˈpɛbi/ [miˈbɛbi]
+rank (military); rank (position) – mipee – /ˈmipɛː/ [ˈmibɛː]
+protection – mirii – /ˈmiriː/
+pin – misaa – /ˈmisäː/
+phone – misiuu – /ˈmiʃʌː/
+raid – mive – /ˈmivɛ/
+certificate – modipo – /mɔˈdipɔ/ [mɔˈdibɔ]
+roof; ceiling; maximum – mogo – /ˈmɔgɔ/
+default – mogoo – /ˈmɔgɔː/
+stomach; gut – mojel – /ˈmɔjɛl/
+port – mojoo – /ˈmɔjɔː/
+bra – moke – /ˈmɔkɛ/ [ˈmɔgɛ]
+finger; toe – mokee – /ˈmɔkɛː/ [ˈmɔgɛː]
+canvas – mokuu – /ˈmɔkʌː/ [ˈmɔgʌː]
+row – mol – /mɔl/
+canoe – mole – /ˈmɔlɛ/
+turtle – molii – /ˈmɔliː/
+transport – momemä – /mɔˈmɛmæ/
+team – momii – /ˈmɔmiː/
+spot – momoo – /ˈmɔmɔː/
+harbor – momui – /ˈmɔmui̯/
+class – mone – /ˈmɔnɛ/
+lower class – mone juu – /ˈmɔnɛ jʌː/
+upper class – mone ro – /ˈmɔnɛ rɔ/
+middle class – mone siil – /ˈmɔnɛ siːl/ [ˈmɔnɛ ʃil]
+canal – moni – /ˈmɔni/
+age – monn – /mɔn/
+constitution – monote – /mɔˈnɔtɛ/
+work – moo – /mɔː/
+widow – moodue – /ˈmɔːdui̯/
+worker; employee – mooja – /ˈmɔːjä/
+dash – moole – /ˈmɔːlɛ/
+west – moom – /mɔːm/
+speed; velocity – moomii – /ˈmɔːmiː/
+ship – moon – /mɔːn/
+nut – moor – /mɔːr/
+coconut – moor uvoo – /mɔːr ˈʌvɔː/
+moon – mootä – /ˈmɔːtæ/
+leverage – moove – /ˈmɔːvɛ/
+snow – moovi – /ˈmɔːvi/
+hobby – mope – /ˈmɔpɛ/ [ˈmɔbɛ]
+object – mopi – /ˈmɔpi/ [ˈmɔbi]
+advice – moro – /ˈmɔrɔ/
+biscuit – mosii – /ˈmɔʃi/
+ghost – mosu – /ˈmɔsʌ/ [mɔʃ]
+snack – mouen – /ˈmɔui̯n/
+bureaucracy – movaunn – /ˈmɔväʌ̯n/
+flaw; defect – move – /ˈmɔvɛ/
+temper – muaa – /ˈmʌäː/
+teacher – muelja – /ˈmui̯ljä/
+confidence – mugodae – /mʌˈgɔdäi̯/
+whisker – muije – /ˈmui̯jɛ/
+contract; pact – muim – /mui̯m/
+bracelet – muimi – /ˈmui̯mi/
+jaw – mum – /mʌm/
+sketch – mumi – /ˈmʌmi/
+rug – mumoo – /ˈmʌmɔː/
+leaf; sheet; flake – munii – /ˈmʌniː/
+overdose – mupi – /ˈmʌpi/ [ˈmʌbi]
+friction – murr – /mʌr/
+posture (bodily position) – muso – /ˈmʌsɔ/
+drought – mutautai – /mʌˈtäʌ̯täi̯/
+lava – muudi – /ˈmʌːdi/
+scale (skin of reptiles) – muum – /mʌːm/
+analogy – muuper – /ˈmʌːpɛr/ [ˈmʌːbɛr]
+acronym – muute – /ˈmʌːtɛ/
+state (province; country) – nä – /næ/
+time; past – naa – /näː/
+shit – naahu – /ˈnäːhʌ/
+merchandise – naam – /näːm/
+science – naape – /ˈnäːpɛ/ [ˈnäːbɛ]
+psychology – naape al – /ˈnäːpɛ äl/ [ˈnäːbɛ äl]
+psychologist – naape alja – /ˈnäːpɛ ˈäljä/ [ˈnäːbɛ ˈäljä]
+linguistics – naape äviimi – /ˈnäːpɛ æˈviːmi/ [ˈnäːbɛ æˈviːmi]
+astronomy – naape deen – /ˈnäːpɛ dɛːn/ [ˈnäːbɛ dɛːn]
+geography – naape nee – /ˈnäːpɛ nɛː/ [ˈnäːbɛ nɛː]
+scientist – naapeja – /näːˈpɛjä/ [näːˈbɛjä]
+crusade – naapo – /ˈnäːpɔ/ [ˈnäːbɔ]
+apartment – naari – /ˈnäːri/
+usher – naatuun – /ˈnäːtʌːn/
+smoke; dust; steam; gas; flour; powder – näbii – /ˈnæbiː/
+beetle – näbo – /ˈnæbɔ/
+trivia – nädo – /ˈnædɔ/
+quality – nai – /näi̯/
+nursery – näjo – /ˈnæjɔ/
+profit – näl – /næl/
+thumb – nälol – /ˈnælɔl/
+rodent – nämau – /ˈnæmäʌ̯/
+cereal – name – /ˈnämɛ/
+tusk – näme – /ˈnæmɛ/
+conference – nämiil – /ˈnæmiːl/
+stay – namu – /ˈnämʌ/
+show (performance); play (stage play) – nan – /nän/
+belief – nänädo – /næˈnædɔ/
+bug; insect – näpäm – /ˈnæpæm/ [ˈnæbæm]
+louse – näpäm sane – /ˈnæpæm ˈsänɛ/ [ˈnæbæm ˈsänɛ]
+excrement; shit; sewage – napi – /ˈnäpi/ [ˈnäbi]
+disgust – näru – /ˈnærʌ/
+sentence – nauki – /ˈnäʌ̯ki/ [ˈnäʌ̯gi]
+memento; souvenir – naumm – /näʌ̯m/
+ball; sphere; circle; ring – naurr – /näʌ̯r/
+galaxy – nave – /ˈnävɛ/
+update – nebii – /ˈnɛbiː/
+world; sphere; earth – nee – /nɛː/
+boy; son – neeke – /ˈnɛːkɛ/ [ˈnɛːgɛ]
+fabric; textile – neelä – /ˈnɛːlæ/
+city; metropolis – neem – /nɛːm/
+citadel – neem nude – /nɛːm ˈnʌdɛ/
+answer – neemo – /ˈnɛːmɔ/
+lamp – neenaa – /ˈnɛːnäː/
+bell – neer – /nɛːr/
+loop – neesi – /ˈnɛːsi/ [nɛːʃ]
+sugar – neetoo – /ˈnɛːtɔː/
+pea – negii – /ˈnɛgiː/
+train – nekoo – /ˈnɛkɔː/ [ˈnɛgɔː]
+urn – neli – /ˈnɛli/
+shrub; bush – nelii – /ˈnɛliː/
+weather; climate – nell – /nɛl/
+porch; veranda – neme – /ˈnɛmɛ/
+case; incident – nen – /nɛn/
+coffin – nen deehedo – /nɛn dɛːˈhɛdɔ/
+mystery – neni – /ˈnɛni/
+spoon – nepe – /ˈnɛpɛ/ [ˈnɛbɛ]
+ambassador – nerr – /nɛr/
+present (time) – nesu – /ˈnɛsʌ/ [nɛʃ]
+artillery – nevi – /ˈnɛvi/
+well; reservoir; fountain – niä – /ˈniæ/ [njæ]
+grid – niibämm – /ˈniːbæm/
+door – niika – /ˈniːkä/ [ˈniːgä]
+attitude – niike – /ˈniːkɛ/ [ˈniːgɛ]
+bully – niikoo – /ˈniːkɔː/ [ˈniːgɔː]
+trophy; souvenir – niimaevi – /niːˈmäi̯vi/
+sap – niin – /niːn/
+spur – niisii – /ˈniːsiː/ [ˈniːʃi]
+parsley – nijaell – /ˈnijäi̯l/
+sickness – nijidae – /niˈjidäi̯/
+son – nill – /nil/
+mistress – nimee – /ˈnimɛː/
+kidney – nimuu – /ˈnimʌː/
+wagon – nina – /ˈninä/
+oxygen – nipa – /ˈnipä/ [ˈnibä]
+angel; saint – nirämuu – /niˈræmʌː/
+crack – nisii – /ˈnisiː/ [ˈniʃi]
+pottery – nivau – /ˈniväʌ̯/
+hand; wrist – no – /nɔ/
+whiskey; liquor – nobau – /ˈnɔbäʌ̯/
+excuse – nobee – /ˈnɔbɛː/
+attic – nodä – /ˈnɔdæ/
+station (railroad; bus) – nogii – /ˈnɔgiː/
+issue; concern – nokor – /ˈnɔkɔr/ [ˈnɔgɔr]
+growth – noldo – /ˈnɔldɔ/
+liar – nonja – /ˈnɔnjä/
+lie – nonpo – /ˈnɔnpɔ/
+game; toy; sport – noo – /nɔː/
+guest; patron – noogel – /ˈnɔːgɛl/
+abuse – nookupo – /nɔːˈkʌpɔ/ [nɔːˈgʌbɔ]
+intervention – nooldo – /ˈnɔːldɔ/
+week – noom – /nɔːm/
+rope; line; stripe; column – nopi – /ˈnɔpi/ [ˈnɔbi]
+fringe; verge; mane – nor – /nɔr/
+friend; acquaintance – nosä – /ˈnɔsæ/
+villain – noto – /ˈnɔtɔ/
+wall – nude – /ˈnʌdɛ/
+success – nudii – /ˈnʌdiː/
+awe – nueroo – /ˈnui̯rɔː/
+meat – nuil – /nui̯l/
+pork – nuil voom – /nui̯l vɔːm/ [nui̯l fɔːm]
+car – nuirr – /nui̯r/
+disk – numm – /nʌm/
+cream – numo – /ˈnʌmɔ/
+acid – nurä – /ˈnʌræ/
+laugh – nurii – /ˈnʌriː/
+twin – nuro – /ˈnʌrɔ/
+proof – nusiumdo – /nʌˈʃʌmdɔ/
+therapy – nutui – /ˈnʌtui̯/
+fat (component in food) – nuu – /nʌː/
+suitcase; baggage – nuube – /ˈnʌːbɛ/
+torso – nuudiipi – /nʌːˈdiːpi/ [nʌːˈdiːbi]
+sausage – nuuge – /ˈnʌːgɛ/
+society – nuul – /nʌːl/
+difference – nuundae – /ˈnʌːndäi̯/
+ankle – nuuni – /ˈnʌːni/
+brain – nuur – /nʌːr/
+current – nuusu – /ˈnʌːsʌ/ [nʌːʃ]
+plant; shrub – oa – /ˈɔä/
+key – oba – /ˈɔbä/
+comedy; humor – oboo – /ˈɔbɔː/
+bait – ode – /ˈɔdɛ/
+clock – odi – /ˈɔdi/
+patriot – odo – /ˈɔdɔ/
+melody; tune – ohe – /ˈɔhɛ/
+toast – ohenee – /ɔˈhɛnɛː/
+tire – ohue – /ˈɔhui̯/
+fairy – oja – /ˈɔjä/
+mission – ojee – /ˈɔjɛː/
+knob – ojo – /ˈɔjɔ/
+letter (of an alphabet) – okuu – /ˈɔkʌː/ [ˈɔgʌː]
+cotton – olem – /ˈɔlɛm/
+herb; flower – olii – /ˈɔliː/
+elevation – omapo – /ɔˈmäpɔ/ [ɔˈmäbɔ]
+riot – omi – /ˈɔmi/
+cathedral – omom – /ˈɔmɔm/
+revolution – omu – /ˈɔmʌ/
+daughter – onn – /ɔn/
+shore – onon – /ˈɔnɔn/
+employer – onooja – /ɔˈnɔːjä/
+cat – onuu – /ˈɔnʌː/
+kitten – onuuhi – /ɔˈnʌːhi/
+ferry – oobänn – /ˈɔːbæn/
+origin; root – oohomm – /ˈɔːhɔm/
+division – oojeesuiido – /ˌɔːjɛːˈʃiːdɔ/
+lot – oom – /ɔːm/
+visitor – oomaaja – /ɔːˈmäːjä/
+specimen – oome – /ˈɔːmɛ/
+fat (bodily substance); fat (component in food) – oomi – /ˈɔːmi/
+destruction – oomudo – /ɔːˈmʌdɔ/
+guide – oon – /ɔːn/
+jar – oone – /ˈɔːnɛ/
+relationship – ooriipo – /ɔːˈriːpɔ/ [ɔːˈriːbɔ]
+sequence – oosoo – /ˈɔːsɔː/
+pest – oosue – /ˈɔːsui̯/
+muscle – ooto – /ˈɔːtɔ/
+tail; ass (slang) – opee – /ˈɔpɛː/ [ˈɔbɛː]
+credit (recognition) – opii – /ˈɔpiː/ [ˈɔbiː]
+garden; park – opo – /ˈɔpɔ/ [ˈɔbɔ]
+gardener – opoja – /ɔˈpɔjä/ [ɔˈbɔjä]
+anger – opuedai – /ɔˈpui̯däi̯/ [ɔˈbui̯däi̯]
+beauty – oseraidae – /ˌɔsɛˈräi̯däi̯/
+scandal – ote – /ˈɔtɛ/
+lease – paabaa – /ˈpäːbäː/
+paradox – paan – /päːn/
+neck – paar – /päːr/
+laundry – päbe – /ˈpæbɛ/
+underwear – päbe tal – /ˈpæbɛ täl/
+poet – paehija – /päi̯ˈhijä/
+peace; harmony; melody – paeji – /ˈpäi̯ji/
+pole; leg – paejoor – /ˈpäi̯jɔːr/
+draft – paeki – /ˈpäi̯ki/ [ˈpäi̯gi]
+poem – paihi – /ˈpäi̯hi/
+news – paiho – /ˈpäi̯hɔ/
+factor – pal – /päl/
+ear – päl – /pæl/
+choir – päle – /ˈpælɛ/
+rifle – päler – /ˈpælɛr/
+opinion – pali – /ˈpäli/
+enemy; rival – pamä – /ˈpämæ/
+passenger – pämema – /pæˈmɛmä/
+aunt – pamm – /päm/
+accent (of language) – pän – /pæn/
+credit (of money) – päna – /ˈpænä/
+counsel – par – /pär/
+goat – pär – /pær/
+spirit – pasii – /ˈpäsiː/ [ˈpäʃi]
+bedroom – patu – /ˈpätʌ/
+project – pau – /päʌ̯/
+dart – pauje – /ˈpäʌ̯jɛ/
+faith – pediimuu – /pɛˈdiːmʌː/
+chemical – peedä – /ˈpɛːdæ/
+health – peekodai – /pɛːˈkɔdäi̯/ [pɛːˈgɔdäi̯]
+drama – peel – /pɛːl/
+lump; bump; knot – peem – /pɛːm/
+adult – peemä – /ˈpɛːmæ/
+clinic – peen – /pɛːn/
+figure – peesiinn – /ˈpɛːʃin/
+dove – peesuu – /ˈpɛːʃʌ/
+conquest – peesuuudo – /pɛːˈʃʌːdɔ/
+matter (substance; material); content – pehii – /ˈpɛhiː/
+repetition – pejaado – /pɛˈjäːdɔ/
+trunk (large box) – pejer – /ˈpɛjɛr/
+beam – peji – /ˈpɛji/
+hat – pejii – /ˈpɛjiː/
+bottom (lowest part); buttocks – pejo – /ˈpɛjɔ/
+charity – peke – /ˈpɛkɛ/ [ˈpɛgɛ]
+illness – peki – /ˈpɛki/ [ˈpɛgi]
+plateau – pene – /ˈpɛnɛ/
+summer – penee – /ˈpɛnɛː/
+spring (season) – penn – /pɛn/
+unit – perau – /ˈpɛräʌ̯/
+girl; female – peri – /ˈpɛri/
+cup; mug – pesi – /ˈpɛsi/ [pɛʃ]
+crew; gang – pesuaam – /ˈpɛʃäːm/
+continent – petoo – /ˈpɛtɔː/
+professor – pevuekau – /pɛˈvui̯käʌ̯/ [pɛˈvui̯gäʌ̯]
+motif – piboo – /ˈpibɔː/
+morning – pidu – /ˈpidʌ/
+lime – piduu – /ˈpidʌː/
+pressure – pigee – /ˈpigɛː/
+hub (center of activity) – pigii – /ˈpigiː/
+student – pii – /piː/
+response – piide – /ˈpiːdɛ/
+situation (circumstances; context) – piihem – /ˈpiːhɛm/
+carrot – piiki – /ˈpiːki/ [ˈpiːgi]
+day; date – piim – /piːm/
+ramp – piimi – /ˈpiːmi/
+essence – piin – /piːn/
+erection – piino – /ˈpiːnɔ/
+option – piir – /piːr/
+pipe; vent – piisiä – /ˈpiːʃæ/
+century – piitu – /ˈpiːtʌ/
+barbecue – pija – /ˈpijä/
+seat; chair; buttocks; stool (seat) – pijäso – /piˈjæsɔ/
+hair (of head); hair (of body) – pil – /pil/
+eyelash – pill haa – /pil häː/
+juice; syrup; blood – pilo – /ˈpilɔ/
+meadow; prairie – pima – /ˈpimä/
+asteroid – pimaa – /ˈpimäː/
+culture – pinii – /ˈpiniː/
+spelling – pinpo – /ˈpinpɔ/
+cloth; fabric; textile – pirir – /ˈpirir/
+whore – pirr – /pir/
+recognition – pitedo – /piˈtɛdɔ/
+snake – pitell – /ˈpitɛl/
+load – poba – /ˈpɔbä/
+song; music – podii – /ˈpɔdiː/
+singer – podiija – /pɔˈdiːjä/
+spring (coil) – pogui – /ˈpɔgui̯/
+bitch – poki – /ˈpɔki/ [ˈpɔgi]
+mail – pon – /pɔn/
+doll; puppet – poni – /ˈpɔni/
+body; corpse – poo – /pɔː/
+prejudice – pooji – /ˈpɔːji/
+metro – pooluu – /ˈpɔːlʌː/
+stage – poom – /pɔːm/
+strip; ribbon; tape – poono – /ˈpɔːnɔ/
+flight – poordo – /ˈpɔːrdɔ/
+fur; mane – popii – /ˈpɔpiː/ [ˈpɔbiː]
+pubic hair – popii memo – /ˈpɔpiː ˈmɛmɔ/ [ˈpɔbiː ˈmɛmɔ]
+feather – popul – /ˈpɔpʌl/ [ˈpɔbʌl]
+compound – posill – /ˈpɔsil/ [pɔʃl]
+balcony; porch; terrace – potoo – /ˈpɔtɔː/
+den – povorr – /ˈpɔvɔr/
+detail – puegu – /ˈpui̯gʌ/
+room (of house) – pugoo – /ˈpʌgɔː/
+bed; lounge; couch; sofa – puimeke – /pui̯ˈmɛkɛ/ [pui̯ˈmɛgɛ]
+arm; wing – pum – /pʌm/
+orphan – pun – /pʌn/
+officer – puna – /ˈpʌnä/
+cabbage – punee – /ˈpʌnɛː/
+route – pupi – /ˈpʌpi/ [ˈpʌbi]
+resource – puumo – /ˈpʌːmɔ/
+settlement (village) – puundo – /ˈpʌːndɔ/
+shirt; blouse – puure – /ˈpʌːrɛ/
+clue – puusel – /ˈpʌːsɛl/
+turmoil – raam – /räːm/
+archipelago – raani – /ˈräːni/
+fruit – raasuii – /ˈräːʃiː/
+air; gas; breeze – rae – /räi̯/
+capital (city) – ragaimu – /räˈgäi̯mʌ/
+shrimp – rägi – /ˈrægi/
+pocket – räguu – /ˈrægʌː/
+bargain – raibiibau – /räi̯ˈbiːbäʌ̯/
+darkness – raimidai – /räi̯ˈmidäi̯/
+illusion – räjee – /ˈræjɛː/
+saddle – raju – /ˈräjʌ/
+fog; mist – rajui – /ˈräjui̯/
+mural – rakuu – /ˈräkʌː/ [ˈrägʌː]
+host – rali – /ˈräli/
+blanket; quilt – räll – /ræl/
+trend – rän – /ræn/
+painting – rano – /ˈränɔ/
+princess – ränu – /ˈrænʌ/
+glacier – rar vä täla – /rär væ ˈtælä/ [rär fæ ˈtælä]
+river; creek – rarr – /rär/
+pillar – räsi – /ˈræsi/ [ræʃ]
+dune – räsiau – /ˈræʃäʌ̯/
+orbit – raul – /räʌ̯l/
+surgery – raum – /räʌ̯m/
+area; region – re – /rɛ/
+device; appliance – reegeel – /ˈrɛːgɛːl/
+premise – reegoo – /ˈrɛːgɔː/
+nickname – reeji – /ˈrɛːji/
+machine; engine; motor – reejiiniin – /rɛːˈjiːniːn/
+tree; wood; shrub; forest – reelä – /ˈrɛːlæ/
+total; sum; amount – reer – /rɛːr/
+hurricane – reesuä – /ˈrɛːʃæ/
+bass – rehii – /ˈrɛhiː/
+circus – rejä – /ˈrɛjæ/
+window; nostril; view; vision – rekä – /ˈrɛkæ/ [ˈrɛgæ]
+author; writer – relja – /ˈrɛljä/
+prey – rerr – /rɛr/
+channel (of water); artery – retoopau – /rɛˈtɔːpäʌ̯/ [rɛˈtɔːbäʌ̯]
+shoe; boot – revo – /ˈrɛvɔ/
+mountain – riä – /ˈriæ/ [rjæ]
+volcano – riä ämm – /ˈriæ æm/ [rjæ æm]
+characteristic – ribuu – /ˈribʌː/
+chord – ride – /ˈridɛ/
+section; segment; compartment; piece – rideguu – /riˈdɛgʌː/
+audience – rido – /ˈridɔ/
+lounge; couch; sofa – rihi – /ˈrihi/
+volume; capacity – riideeoo – /riːˈdɛːɔː/
+counter (flat; elevated surface) – riidu – /ˈriːdʌ/
+ethic; integrity – riihomm – /ˈriːhɔm/
+challenge – riim – /riːm/
+universe – riime – /ˈriːmɛ/
+pedestrian – riimimor – /riːˈmimɔr/
+paradise – riin – /riːn/
+coral – rikee – /ˈrikɛː/ [ˈrigɛː]
+toddler – riki – /ˈriki/ [ˈrigi]
+ass – rill – /ril/
+manual – rimä – /ˈrimæ/
+mouse; rat – rinii – /ˈriniː/
+film – ritoo – /ˈritɔː/
+dawn; birth – riuul – /ˈriʌːl/ [rjʌːl]
+fort; castle – robo – /ˈrɔbɔ/
+height – rodae – /ˈrɔdäi̯/
+knee – roho – /ˈrɔhɔ/
+spell (of magic) – rojuu – /ˈrɔjʌː/
+foam – ronn – /rɔn/
+wax – roogaa – /ˈrɔːgäː/
+partner; ally – rool – /rɔːl/
+couple – room – /rɔːm/
+elk – roomuu – /ˈrɔːmʌː/
+vegetable – roon – /rɔːn/
+grocer – roondi – /ˈrɔːndi/
+fingerprint – roonu mokee – /ˈrɔːnʌ ˈmɔkɛː/ [ˈrɔːnʌ ˈmɔgɛː]
+fracture – roruu – /ˈrɔrʌː/
+goal (objective); destination – roto – /ˈrɔtɔ/
+currency – rovee – /ˈrɔvɛː/
+heaven – ruill – /rui̯l/
+building – ruipo – /ˈrui̯pɔ/ [ˈrui̯bɔ]
+detention – rujeempo – /rʌˈjɛːmpɔ/
+nurse – rukau – /ˈrʌkäʌ̯/ [ˈrʌgäʌ̯]
+glory; honor; integrity – rumm – /rʌm/
+slave; servant – runiim – /ˈrʌniːm/
+footpath; sidewalk – runn – /rʌn/
+beverage – rurr – /rʌr/
+oyster – rusim – /ˈrʌsim/ [rʌʃm]
+sleep – ruso – /ˈrʌsɔ/
+square; cube – ruuboo – /ˈrʌːbɔː/
+collar – ruuli – /ˈrʌːli/
+chalk – ruum – /rʌːm/
+purpose; ambition; reason – ruun – /rʌːn/
+thigh – ruupe – /ˈrʌːpɛ/ [ˈrʌːbɛ]
+flu – ruuri – /ˈrʌːri/
+concrete; pavement – ruvuu – /ˈrʌvʌː/
+condition (requirement; stipulation) – sa – /sä/
+hammer – saam – /säːm/
+pair – sädoo – /ˈsædɔː/
+closure – säha – /ˈsæhä/
+critique – sähepo – /sæˈhɛpɔ/ [sæˈhɛbɔ]
+tap (faucet) – sähuu – /ˈsæhʌː/
+prestige – saill – /säi̯l/
+storm – saimm – /säi̯m/
+diet – sall – /säl/
+limb; branch (tree part) – säluu – /ˈsælʌː/
+descendant; offspring – samäm – /ˈsämæm/
+bowl – sämii – /ˈsæmiː/
+weight – samm – /säm/
+skin – sane – /ˈsänɛ/
+style; tone; kind – sänn – /sæn/
+staff – sar – /sär/
+boat; yacht – säsa – /ˈsæsä/
+shape; state (condition); constellation – säsae – /ˈsæsäi̯/
+mood – säsai pasii – /ˈsæsäi̯ ˈpäsiː/ [ˈsæsäi̯ ˈpäʃi]
+sailor – säsaja – /sæˈsäjä/
+bear – sätii – /ˈsætiː/
+proverb – sauna – /ˈsäʌ̯nä/
+moisture – sedeladai – /ˌsɛdɛˈlädäi̯/
+button (pushbutton) – sedii – /ˈsɛdiː/
+dairy – sedu – /ˈsɛdʌ/
+germ; bacteria – seeho – /ˈsɛːhɔ/
+steam – seeji – /ˈsɛːji/
+skeleton; hull; carcass – seel – /sɛːl/
+animal; beast; creature; organism – seenu – /ˈsɛːnʌ/
+outline – seguu – /ˈsɛgʌː/
+military – sekau – /ˈsɛkäʌ̯/ [ˈsɛgäʌ̯]
+navy – sekau kiigo – /ˈsɛkäʌ̯ ˈkiːgɔ/ [ˈsɛgäʌ̯ ˈkiːgɔ]
+need – seloo – /ˈsɛlɔː/
+athlete – sema – /ˈsɛmä/
+liberty – semm – /sɛm/
+folder – senaa – /ˈsɛnäː/
+shield; armor – senii – /ˈsɛniː/
+shoulder – senn – /sɛn/
+prostitute – senu – /ˈsɛnʌ/
+heir – sepo – /ˈsɛpɔ/ [ˈsɛbɔ]
+claw – ser – /sɛr/
+south – sesi – /ˈsɛsi/ [sɛʃ]
+lecture – setem – /ˈsɛtɛm/
+bread – siam – /ʃäm/
+gender – siamuusiu – /ʃäˈmʌːʃʌ/
+biology – siapau – /ˈʃäpäʌ̯/ [ˈʃäbäʌ̯]
+composite – siase – /ˈʃäsɛ/
+eclipse – siaumm – /ʃäʌ̯m/
+fun – siäviidae – /ʃæˈviːdäi̯/
+goose – sibo – /ˈsibɔ/ [ʃbɔ]
+weapon – side – /ˈsidɛ/ [ʃdɛ]
+armory – sidedi – /siˈdɛdi/ [ʃdɛˈdi]
+killer – sieedoja – /ʃɛːˈdɔjä/
+village – sieegaakue – /ʃɛːˈgäːkui̯/ [ʃɛːˈgäːgui̯]
+rate – sieer – /ʃɛːr/
+property – siemm – /ʃɛm/
+icon – sien – /ʃɛn/
+paw; hoof – sieva – /ˈʃɛvä/
+teenager; adolescent – sihä – /ˈsihæ/ [ʃhæ]
+entrance – sihido – /siˈhidɔ/ [ʃhiˈdɔ]
+organism – sii – /ʃi/
+right; entitlement – sii – /siː/ [ʃi]
+copyright – sii jovir – /siː ˈjɔvir/ [ʃi ˈjɔvir]
+banner – siibi – /ˈsiːbi/ [ˈʃibi]
+fraud; hoax – siigauji – /siːˈgäʌ̯ji/ [ʃiˈgäʌ̯ji]
+badge – siigi – /ˈʃigi/
+report – siiibuu – /ˈʃiːbʌː/
+perfection – siildae – /ˈʃildäi̯/
+soap – siimm – /ʃim/
+crumb – siin – /siːn/ [ʃin]
+hero; idol – siipi – /ˈʃipi/ [ˈʃibi]
+girlfriend; mistress – siir – /siːr/ [ʃir]
+violence – siirudai – /siːˈrʌdäi̯/ [ʃiˈrʌdäi̯]
+justice; law – sija – /ˈsijä/ [ʃjä]
+judge – sijaja – /siˈjäjä/ [ʃjäˈjä]
+scarf – sikedä – /siˈkɛdæ/ [ʃkɛˈdæ]
+caterpillar – sikee – /ˈsikɛː/ [ʃkɛː]
+treatment – siluesuuedo – /ˌsilui̯ˈʃui̯dɔ/ [ʃlui̯ʃui̯ˈdɔ]
+leg – sima – /ˈsimä/ [ʃmä]
+tribunal – simi – /ˈsimi/ [ʃmi]
+bark (of tree) – sin – /sin/ [ʃn]
+journey; trip; voyage – sioom – /ʃɔːm/
+organ – sioon – /ʃɔːn/
+copper; bronze – sioosiä – /ˈʃɔːʃæ/
+arrival – siotado – /ʃɔˈtädɔ/
+stump; root – sipa – /ˈsipä/ [ʃpä]
+support – sirdo – /ˈsirdɔ/ [ʃrdɔ]
+dirt – siuepoo – /ˈʃui̯pɔː/ [ˈʃui̯bɔː]
+prophet – siuhe – /ˈʃʌhɛ/
+blade – siuihee – /ˈʃui̯hɛː/
+string – siuki – /ˈʃʌki/ [ˈʃʌgi]
+celebrity – siulee – /ˈʃʌlɛː/
+demon; monster; beast – siun – /ʃʌn/
+target – siunihe – /ʃʌˈnihɛ/
+ammunition – siuri – /ˈʃʌri/
+survey – siurr – /ʃʌr/
+spice – siuum – /ʃʌːm/
+glass – siuuso – /ˈʃʌːsɔ/
+ant – sojirr – /ˈsɔjir/
+rubble; debris – solii – /ˈsɔliː/
+rat – somae – /ˈsɔmäi̯/
+soil; clay – sonn – /sɔn/
+vanilla – soope – /ˈsɔːpɛ/ [ˈsɔːbɛ]
+sponge – sopä – /ˈsɔpæ/ [ˈsɔbæ]
+cult – sopo – /ˈsɔpɔ/ [ˈsɔbɔ]
+passion – sopoo – /ˈsɔpɔː/ [ˈsɔbɔː]
+bat (winged mammal) – sorr – /sɔr/
+pyramid; cone – sosa – /ˈsɔsä/
+cousin – sosii – /ˈsɔʃi/
+canopy; umbrella – soso – /ˈsɔsɔ/
+frost – suaalpo – /ˈʃäːlpɔ/
+comb; brush (for hair); broom – suäbobim – /ʃæˈbɔbim/
+code – suädii – /ˈʃædiː/
+container – suainuisii – /ʃäi̯ˈnui̯ʃi/
+cart – suämm – /ʃæm/
+tornado – suämoo – /ˈʃæmɔː/
+range; extent – suan – /ʃän/
+explanation – suaudo – /ˈʃäʌ̯dɔ/
+example; prototype – suedu – /ˈʃɛdʌ/
+hybrid – sueemaa – /ˈʃɛːmäː/
+maid – sueemoo – /ˈʃɛːmɔː/
+niche – sueen – /ʃɛːn/
+remedy – sueku – /ˈʃɛkʌ/ [ˈʃɛgʌ]
+lung – suemaa – /ˈʃɛmäː/
+rice – suemi – /ˈʃɛmi/
+array – suepii – /ˈʃɛpiː/ [ˈʃɛbiː]
+grade; rank (position) – suepun – /ˈʃɛpʌn/ [ˈʃɛbʌn]
+thread; strand – suibi – /ˈʃibi/
+wizard – suidauja – /ʃiˈdäʌ̯jä/
+license; patent – suide – /ˈʃidɛ/
+side; border; boundary; perimeter – suii – /ʃiː/
+rebel – suiige – /ˈʃiːgɛ/
+holiday; vacation – suiigo – /ˈʃiːgɔ/
+oath – suilo – /ˈʃilɔ/
+tea – suimä – /ˈʃimæ/
+crown – suimirr – /ˈsui̯mir/
+slope; slant; bank (river) – suinn – /ʃin/
+jelly; jam – suirr – /sui̯r/
+wound; trauma – suitii – /ˈʃitiː/
+truth – sukuudae – /sʌˈkʌːdäi̯/ [ʃkʌːˈdäi̯]
+flood – suli – /ˈsʌli/ [ʃli]
+blasphemy; heresy – sull – /sʌl/ [ʃl]
+pistol – sumi – /ˈsʌmi/ [ʃmi]
+bicycle – summ – /sʌm/ [ʃm]
+belt – suoli – /ˈʃɔli/
+gene – suooji – /ˈʃɔːji/
+nerve – suool – /ʃɔːl/
+luxury – suopem – /ˈʃɔpɛm/ [ˈʃɔbɛm]
+tattoo – suor – /ʃɔr/
+siege – supä – /ˈsʌpæ/ [ʃpæ]
+fetus; embryo – supi – /ˈsʌpi/ [ʃpi]
+paper – sure – /ˈsʌrɛ/ [ʃrɛ]
+beach – susoo – /ˈsʌsɔː/ [ʃsɔː]
+diner – suuä – /ˈsʌːæ/ [ˈʃʌæ]
+vocabulary – suubue – /ˈsʌːbui̯/ [ˈʃʌbui̯]
+net – suuduun – /ˈsʌːdʌːn/ [ˈʃʌdʌːn]
+funeral – suuepi – /ˈʃui̯pi/ [ˈʃui̯bi]
+bullet – suuerä – /ˈʃui̯ræ/
+empire – suulueteen – /sʌːˈlui̯tɛːn/ [ʃʌˈlui̯tɛːn]
+army – suumoo – /ˈsʌːmɔː/ [ˈʃʌmɔː]
+dog – suun – /sʌːn/ [ʃʌn]
+wolf – suun miki – /sʌːn ˈmiki/ [ʃʌn ˈmigi]
+puppy – suunhi – /ˈsʌːnhi/ [ˈʃʌnhi]
+cherry – suur – /sʌːr/ [ʃʌr]
+hole; ditch; well; trench – suuur – /ʃʌːr/
+box; crate – suuusa – /ˈʃʌːsä/
+glasses – suuuso haa – /ˈʃʌːsɔ häː/
+stool (seat) – suuvau – /ˈsʌːväʌ̯/ [ˈʃʌväʌ̯]
+force; strength – ta – /tä/
+head – tä – /tæ/
+leader – tä – /tæ/
+blur – taadaar – /ˈtäːdäːr/
+horse – taajii – /ˈtäːjiː/
+camel – taajii holui – /ˈtäːjiː ˈhɔlui̯/
+technology – taam – /täːm/
+goblin – taape – /ˈtäːpɛ/ [ˈtäːbɛ]
+barrier; hurdle – taasi – /ˈtäːsi/ [täːʃ]
+spy; scout – tabe – /ˈtäbɛ/
+gallery (art) – täbo – /ˈtæbɔ/
+jersey; sweater – tädihu – /tæˈdihʌ/
+wine – taebau – /ˈtäi̯bäʌ̯/
+winery – taebaudi – /täi̯ˈbäʌ̯di/
+cannon – taedo – /ˈtäi̯dɔ/
+forefather – tael – /täi̯l/
+prism – täge – /ˈtægɛ/
+furniture – taikenn – /ˈtäi̯kɛn/ [ˈtäi̯gɛn]
+mold – tain – /täi̯n/
+clerk; accountant – takii – /ˈtäkiː/ [ˈtägiː]
+rock; stone; gravel; metal – täla – /ˈtælä/
+floor; ground; bottom (lowest part) – tall – /täl/
+strawberry – talonn – /ˈtälɔn/
+complex – täluu – /ˈtælʌː/
+abdomen – täma – /ˈtæmä/
+lettuce – tämm – /tæm/
+boyfriend – tän – /tæn/
+fuse – tänirr – /ˈtænir/
+excitement – tardo – /ˈtärdɔ/
+advertisement – tärdo – /ˈtærdɔ/
+creek – tärii – /ˈtæriː/
+kitchen; cuisine – taull – /täʌ̯l/
+void – tausiaa – /ˈtäʌ̯ʃäː/
+emotion; affection; passion – tebä – /ˈtɛbæ/
+fatigue – tebiho – /tɛˈbihɔ/
+drink – teboo – /ˈtɛbɔː/
+shame; stigma; guilt – teel – /tɛːl/
+task; chore – teem – /tɛːm/
+chance; odds – teen – /tɛːn/
+band (musical group) – teetell – /ˈtɛːtɛl/
+agreement – teevemdo – /tɛːˈvɛmdɔ/
+knight – teguu – /ˈtɛgʌː/
+hell – tehiin – /ˈtɛhiːn/
+chaos – teji – /ˈtɛji/
+runner – tejiija – /tɛˈjiːjä/
+mosquito – tejoo – /ˈtɛjɔː/
+needle – tekue – /ˈtɛkui̯/ [ˈtɛgui̯]
+honey – tell – /tɛl/
+list; column – tenn – /tɛn/
+arch; arc – tepau – /ˈtɛpäʌ̯/ [ˈtɛbäʌ̯]
+revenge – tepi – /ˈtɛpi/ [ˈtɛbi]
+liver – terr – /tɛr/
+island – tesie – /ˈtɛʃɛ/
+wrinkle; crease; kink (sharp twist) – tetau – /ˈtɛtäʌ̯/
+inn; lodge – teti – /ˈtɛti/
+demographic – tevipeen – /tɛˈvipɛːn/ [tɛˈvibɛːn]
+dusk – ti fuimm – /ti fui̯m/
+kind; type – tii – /tiː/
+character; persona – tiibi – /ˈtiːbi/
+helmet – tiile – /ˈtiːlɛ/
+structure – tiim – /tiːm/
+surface; skin – tiimoo – /ˈtiːmɔː/
+irony – tiindae – /ˈtiːndäi̯/
+territory; state (province; country) – tiipe – /ˈtiːpɛ/ [ˈtiːbɛ]
+saw – tiipu – /ˈtiːpʌ/ [ˈtiːbʌ]
+government – tiirdo – /ˈtiːrdɔ/
+fear – tipaejee – /tiˈpäi̯jɛː/ [tiˈbäi̯jɛː]
+tie – tipeelii – /tiˈpɛːliː/ [tiˈbɛːliː]
+barrel; drum – tirr – /tir/
+town; population; village – tirui – /ˈtirui̯/
+coin; currency – tobii – /ˈtɔbiː/
+sweetheart – tokomm – /ˈtɔkɔm/ [ˈtɔgɔm]
+valve – toll – /tɔl/
+width – tomdai – /ˈtɔmdäi̯/
+lover – tookäja – /tɔːˈkæjä/ [tɔːˈgæjä]
+arrow (weapon); arrow (sign) – tool – /tɔːl/
+romance – toole – /ˈtɔːlɛ/
+accident; catastrophe – toporr – /ˈtɔpɔr/ [ˈtɔbɔr]
+wildlife – torr – /tɔr/
+bottle – tosehi – /tɔˈsɛhi/
+peasant – toso – /ˈtɔsɔ/
+discount – tuejem – /ˈtui̯jɛm/
+ward – tuekänirr – /tui̯ˈkænir/ [tui̯ˈgænir]
+reef – tueke – /ˈtui̯kɛ/ [ˈtui̯gɛ]
+religion – tuemoo – /ˈtui̯mɔː/
+province – tuepii – /ˈtui̯piː/ [ˈtui̯biː]
+interest (curiosity; concern) – tuesee – /ˈtui̯sɛː/
+variable – tugeja – /tʌˈgɛjä/
+life (living organism) – tui – /tui̯/
+existence – tuido – /ˈtui̯dɔ/
+nail – tuim – /tui̯m/
+contact – tuinuu – /ˈtui̯nʌː/
+bean – tuipi – /ˈtui̯pi/ [ˈtui̯bi]
+winter – tujumm – /ˈtʌjʌm/
+mafia; mob – tuke – /ˈtʌkɛ/ [ˈtʌgɛ]
+almond – tukii – /ˈtʌkiː/ [ˈtʌgiː]
+reptile – tumii – /ˈtʌmiː/
+doctor – tupem – /ˈtʌpɛm/ [ˈtʌbɛm]
+secret – tupim – /ˈtʌpim/ [ˈtʌbim]
+nest – tur – /tʌr/
+habit; bias – turo – /ˈtʌrɔ/
+medicine – tuugii – /ˈtʌːgiː/
+staple – tuukee – /ˈtʌːkɛː/ [ˈtʌːgɛː]
+witness – tuul – /tʌːl/
+virgin – tuum – /tʌːm/
+tourist – tuumiija – /tʌːˈmiːjä/
+wardrobe – tuumiin – /ˈtʌːmiːn/
+clown – tuunauve – /tʌːˈnäʌ̯vɛ/
+rain; shower – u – /ʌ/
+towel – ubam – /ˈʌbäm/
+waist – uejol – /ˈui̯jɔl/
+action (movement) – uekado – /ui̯ˈkädɔ/ [ui̯ˈgädɔ]
+garbage; trash; rubbish; rubble; debris – ueloo – /ˈui̯lɔː/
+earthquake – uenn nee – /ui̯n nɛː/
+farm; pasture – uepo – /ˈui̯pɔ/ [ˈui̯bɔ]
+farmer – uepoja – /ui̯ˈpɔjä/ [ui̯ˈbɔjä]
+minute – ugo – /ˈʌgɔ/
+post – uhue – /ˈʌhui̯/
+police – uhuu – /ˈʌhʌː/
+flour – uil – /ui̯l/
+gravity – uitue – /ˈui̯tui̯/
+calf – ujä – /ˈʌjæ/
+lap – ukar – /ˈʌkär/ [ˈʌgär]
+statistic – uko – /ˈʌkɔ/ [ˈʌgɔ]
+oven – ulaa – /ˈʌläː/
+apron – ule – /ˈʌlɛ/
+half – ului – /ˈʌlui̯/
+electricity – umi – /ˈʌmi/
+bird – un – /ʌn/
+infant – uuhil – /ˈʌːhil/
+thunder – uulii – /ˈʌːliː/
+fiber – uum – /ʌːm/
+uncle – uun – /ʌːn/
+stalemate – uunoni – /ʌːˈnɔni/
+pump – uunu – /ˈʌːnʌ/
+product (item made) – uupo – /ˈʌːpɔ/ [ˈʌːbɔ]
+field; pasture – uur – /ʌːr/
+milk – uvoo – /ˈʌvɔː/
+water – vä – /væ/ [fæ]
+tear – vä haa – /væ häː/ [fæ häː]
+ice – vä täla – /væ ˈtælä/ [fæ ˈtælä]
+man – vaa – /väː/ [fäː]
+double – vaajo – /ˈväːjɔ/ [ˈfäːjɔ]
+coil – vaanoo – /ˈväːnɔː/ [ˈfäːnɔː]
+tribe; clan – vaatikee – /väːˈtikɛː/ [fäːˈtigɛː]
+history; past – vae – /väi̯/ [fäi̯]
+clan; kin – vaell – /väi̯l/ [fäi̯l]
+sea; ocean – vaji – /ˈväji/ [ˈfäji]
+foreigner – vakedai – /väˈkɛdäi̯/ [fäˈgɛdäi̯]
+fan – väken – /ˈvækɛn/ [ˈfægɛn]
+trunk (of tree) – väkuu – /ˈvækʌː/ [ˈfægʌː]
+office – vall – /väl/ [fäl]
+shack; shed – välo – /ˈvælɔ/ [ˈfælɔ]
+museum – väme – /ˈvæmɛ/ [ˈfæmɛ]
+nature – vän – /væn/ [fæn]
+criminal – värja – /ˈværjä/ [ˈfærjä]
+hate – varpo – /ˈvärpɔ/ [ˈfärpɔ]
+crime – värr – /vær/ [fær]
+sand; dust – vasi – /ˈväsi/ [fäʃ]
+expression (facial) – vauhau – /ˈväʌ̯häʌ̯/ [ˈfäʌ̯häʌ̯]
+food; meal; feast; nutrition; cuisine – vauhi – /ˈväʌ̯hi/ [ˈfäʌ̯hi]
+cheek – vaui – /ˈväʌ̯i/ [ˈfäʌ̯i]
+use – vaujido – /väʌ̯ˈjidɔ/ [fäʌ̯ˈjidɔ]
+virus – vedemm – /ˈvɛdɛm/ [ˈfɛdɛm]
+equipment; apparatus – veebae – /ˈvɛːbäi̯/ [ˈfɛːbäi̯]
+value – veel – /vɛːl/ [fɛːl]
+opening – veeläpo – /vɛːˈlæpɔ/ [fɛːˈlæbɔ]
+toilet – veem – /vɛːm/ [fɛːm]
+church; chapel; shrine – vegi – /ˈvɛgi/ [ˈfɛgi]
+metal – veji – /ˈvɛji/ [ˈfɛji]
+light – vel – /vɛl/ [fɛl]
+ash; coal – vele – /ˈvɛlɛ/ [ˈfɛlɛ]
+risk; threat – vem – /vɛm/ [fɛm]
+skirt – vepai – /ˈvɛpäi̯/ [ˈfɛbäi̯]
+bath; pool – ver – /vɛr/ [fɛr]
+landlord – vevi – /ˈvɛvi/ [ˈfɛvi]
+mirror – vibu – /ˈvibʌ/ [ˈfibʌ]
+ministry; embassy – vidae – /ˈvidäi̯/ [ˈfidäi̯]
+urge – vigo – /ˈvigɔ/ [ˈfigɔ]
+archive – viide – /ˈviːdɛ/ [ˈfiːdɛ]
+suggestion – viijuunuimdo – /ˌviːjʌːˈnui̯mdɔ/ [ˌfiːjʌːˈnui̯mdɔ]
+book – viil – /viːl/ [fiːl]
+notebook – viil laibi – /viːl ˈläi̯bi/ [fiːl ˈläi̯bi]
+king; emperor – viim – /viːm/ [fiːm]
+stew; soup; broth – viino – /ˈviːnɔ/ [ˈfiːnɔ]
+crater – viipee – /ˈviːpɛː/ [ˈfiːbɛː]
+ham – viir – /viːr/ [fiːr]
+discussion – viiredo – /viːˈrɛdɔ/ [fiːˈrɛdɔ]
+hearing – vikädo – /viˈkædɔ/ [fiˈgædɔ]
+millennium – viko – /ˈvikɔ/ [ˈfigɔ]
+part; piece; item – virae – /ˈviräi̯/ [ˈfiräi̯]
+chorus – viru – /ˈvirʌ/ [ˈfirʌ]
+spasm – visii – /ˈviʃi/ [ˈfiʃi]
+page – visiii – /ˈviʃiː/ [ˈfiʃiː]
+temperature – visiki – /viˈsiki/ [fiʃˈki]
+home – viso – /ˈvisɔ/ [ˈfisɔ]
+shelf; rack – visua – /ˈviʃä/ [ˈfiʃä]
+engine; motor – vive – /ˈvivɛ/ [ˈfivɛ]
+agriculture – vivell – /ˈvivɛl/ [ˈfivɛl]
+resort; sanctuary; haven – vomo – /ˈvɔmɔ/ [ˈfɔmɔ]
+crowd – vomuu – /ˈvɔmʌː/ [ˈfɔmʌː]
+eel – vonn – /vɔn/ [fɔn]
+power – vonodai – /vɔˈnɔdäi̯/ [fɔˈnɔdäi̯]
+amateur; novice; rookie – vooä – /ˈvɔːæ/ [ˈfɔːæ]
+pillow; cushion – vool – /vɔːl/ [fɔːl]
+pig – voom – /vɔːm/ [fɔːm]
+bee – voomi – /ˈvɔːmi/ [ˈfɔːmi]
+hint – voondo – /ˈvɔːndɔ/ [ˈfɔːndɔ]
+pain – voove – /ˈvɔːvɛ/ [ˈfɔːvɛ]
+rabbit – vor – /vɔr/ [fɔr]
+throne – vuejuu – /ˈvui̯jʌː/ [ˈfui̯jʌː]
+deputy – vuemm – /vui̯m/ [fui̯m]
+tension – vuesuumdae – /vui̯ˈsʌːmdäi̯/ [fui̯ˈʃʌmdäi̯]
+dew – vugi – /ˈvʌgi/ [ˈfʌgi]
+idea; concept – vui – /vui̯/ [fui̯]
+edge; limit; verge – vuill – /vui̯l/ [fui̯l]
+lyrics – vule – /ˈvʌlɛ/ [ˈfʌlɛ]
+thorn – vuli – /ˈvʌli/ [ˈfʌli]
+theory; premise; thesis – vum – /vʌm/ [fʌm]
+hag (old woman) – vumii – /ˈvʌmiː/ [ˈfʌmiː]
+architecture – vun – /vʌn/ [fʌn]
+log – vupä – /ˈvʌpæ/ [ˈfʌbæ]
+trade – vurail – /ˈvʌräi̯l/ [ˈfʌräi̯l]
+recession – vusiorr – /ˈvʌʃɔr/ [ˈfʌʃɔr]
+hotel – vuta – /ˈvʌtä/ [ˈfʌtä]
+potato – vuude – /ˈvʌːdɛ/ [ˈfʌːdɛ]
+flower – vuugi – /ˈvʌːgi/ [ˈfʌːgi]
+florist – vuugija – /vʌːˈgijä/ [fʌːˈgijä]
+pile; heap – vuul – /vʌːl/ [fʌːl]
+
+
+[Numerals]
+one – aa – /äː/
+zero – eemome – /ɛːˈmɔmɛ/
+nine – fii – /fiː/
+third – himm – /him/
+seven – ii – /iː/
+first – ki – /ki/
+billion – leem – /lɛːm/
+six – mau – /mäʌ̯/
+ten – mi – /mi/
+five – mii – /miː/
+hundred – na – /nä/
+million – nau – /näʌ̯/
+four – nu – /nʌ/
+two – saa – /säː/
+three – suaa – /ʃäː/
+thousand – sue – /ʃɛ/
+eight – suee – /ʃɛː/
+trillion – suji – /ˈsʌji/ [ʃji]
+second – tipä – /ˈtipæ/ [ˈtibæ]
+
+
+[Prepositions]
+after – a – /ä/
+without – daa – /däː/
+by (using the means of); by (using a route) – di – /di/
+out; outside – dir – /dir/
+for (the purpose of) – duu – /dʌː/
+onto – egoode – /ɛˈgɔːdɛ/
+throughout – enn – /ɛn/
+around – fe – /fɛ/
+before – fi – /fi/
+beside – fibee – /ˈfibɛː/
+versus – hel – /hɛl/
+from – hi – /hi/
+per; for each – hirr – /hir/
+to; towards – hue – /hui̯/
+with (accompanied by) – i – /i/
+with (using) – ji – /ji/
+like – jui – /jui̯/
+upon – kiijeso – /kiːˈjɛsɔ/
+in; within; into – ku – /kʌ/
+for (a period of time or length of distance) – laa – /läː/
+near – lan – /län/
+under; below – le – /lɛ/
+between; among – li – /li/
+except; besides – mimoo – /ˈmimɔː/
+at – mo – /mɔ/
+about; concerning; regarding – mu – /mʌ/
+alongside; as well as – mul – /mʌl/
+according to – nike – /ˈnikɛ/ [ˈnigɛ]
+for (in favor of) – o – /ɔ/
+inside – ookull – /ˈɔːkʌl/ [ˈɔːgʌl]
+above – ori – /ˈɔri/
+including – paa – /päː/
+through – pe – /pɛ/
+along – pee – /pɛː/
+up – pu – /pʌ/
+against – puu – /pʌː/
+beyond – puur – /pʌːr/
+during – rä – /ræ/
+by (agent performing an action); by (author or creator) – se – /sɛ/
+on – si – /si/ [ʃ]
+down – suom – /ʃɔm/
+of – ui – /ui̯/
+over – ve – /vɛ/ [fɛ]
+across – vi – /vi/ [fi]
+
+
+[Pronouns]
+you; you all; yours; yours (pl) – au – /äʌ̯/
+he; him; his; she; her; hers; it; its; they; them; theirs – e – /ɛ/
+everyone – fevuu – /ˈfɛvʌː/
+who – jee – /jɛː/
+something – jell – /jɛl/
+he; him; his; she; her; hers; it; its; they; them; theirs – jo – /jɔ/
+that – ka – /kä/
+everything – kin – /kin/
+someone; somebody – laalau – /ˈläːläʌ̯/
+he; him; his; she; her; hers; it; its; they; them; theirs – ma – /mä/
+nothing – mesiii – /ˈmɛʃiː/
+what – mui – /mui̯/
+one – nesio – /ˈnɛʃɔ/
+which – ri – /ri/
+everybody – roote – /ˈrɔːtɛ/
+none – seku – /ˈsɛkʌ/ [ˈsɛgʌ]
+this – suu – /ʃʌ/
+I; me; mine; we; us; ours – ui – /ui̯/
+anything – um – /ʌm/
+
+
+[Adjectives]
+thin (slender); slim – ä – /æ/
+mean; vicious – aasiuu – /ˈäːʃʌː/
+old; antique – ae – /äi̯/
+aesthetic – aerii – /ˈäi̯riː/
+curious – äl – /æl/
+oral – aloku – /äˈlɔkʌ/ [äˈlɔgʌ]
+random – äma – /ˈæmä/
+green; sick; fresh – ämo – /ˈæmɔ/
+rare – äna – /ˈænä/
+pretty – ar – /är/
+broken – asiaiko – /äˈʃäi̯kɔ/ [äˈʃäi̯gɔ]
+relevant – ate – /ˈätɛ/
+mature; ripe – audii – /ˈäʌ̯diː/
+equal; equivalent – daahe – /ˈdäːhɛ/
+manual – daji – /ˈdäji/
+plain – dän – /dæn/
+vibrant – daoo – /ˈdäɔː/
+small; little – dau – /däʌ̯/
+dead – deeheko – /dɛːˈhɛkɔ/ [dɛːˈhɛgɔ]
+cute – deelä – /ˈdɛːlæ/
+political – deenooku – /dɛːˈnɔːkʌ/ [dɛːˈnɔːgʌ]
+full – deke – /ˈdɛkɛ/ [ˈdɛgɛ]
+dangerous – demaara – /dɛˈmäːrä/
+messy – demera – /dɛˈmɛrä/
+straight; steep – detu – /ˈdɛtʌ/
+nervous; anxious – dijoo – /ˈdijɔː/
+economic – dilku – /ˈdilkʌ/
+sophisticated; intricate – dimae – /ˈdimäi̯/
+obscure – dimoo – /ˈdimɔː/
+due – dooduu – /ˈdɔːdʌː/
+gradual – doohem – /ˈdɔːhɛm/
+lucky – dulo – /ˈdʌlɔ/
+furious – dunra – /ˈdʌnrä/
+exotic – dupi – /ˈdʌpi/ [ˈdʌbi]
+final – duurko – /ˈdʌːrkɔ/
+alternate – eepai – /ˈɛːpäi̯/ [ˈɛːbäi̯]
+gray – egii – /ˈɛgiː/
+awkward – eho – /ˈɛhɔ/
+static; passive – ejii – /ˈɛjiː/
+spontaneous – emoo – /ˈɛmɔː/
+central – emra – /ˈɛmrä/
+poor – eni – /ˈɛni/
+exact; precise; definite – erae – /ˈɛräi̯/
+naked; nude – esee – /ˈɛsɛː/
+comfortable – eveera – /ɛˈvɛːrä/
+soft – faamaar – /ˈfäːmäːr/
+physical; tangible – fägäveen – /fæˈgævɛːn/
+elite – fäji – /ˈfæji/
+fancy – fäna – /ˈfænä/
+rich – färra – /ˈfærrä/
+sturdy – fedu – /ˈfɛdʌ/
+custom – feevo – /ˈfɛːvɔ/
+practical; pragmatic – fehoo – /ˈfɛhɔː/
+civilized – femä – /ˈfɛmæ/
+similar – fepa – /ˈfɛpä/ [ˈfɛbä]
+stable; steady; calm; patient; consistent; compatible – ferii – /ˈfɛriː/
+fair; just – fiim – /fiːm/
+free – foon – /fɔːn/
+apparent – fuun – /fʌːn/
+social – haal – /häːl/
+temporary – häbo – /ˈhæbɔ/
+deaf – hahiloo – /häˈhilɔː/
+loud; noisy – här – /hær/
+national – hebiku – /hɛˈbikʌ/ [hɛˈbigʌ]
+rude; crude; nasty; vulgar – hekue – /ˈhɛkui̯/ [ˈhɛgui̯]
+stubborn – hetii – /ˈhɛtiː/
+opposite – higoo – /ˈhigɔː/
+possible – hiilee – /ˈhiːlɛː/
+bad – hiilue – /ˈhiːlui̯/
+expensive – hindora – /hinˈdɔrä/
+confidential – hisae – /ˈhisäi̯/
+blunt – hoboo – /ˈhɔbɔː/
+loose – homaagen – /hɔˈmäːgɛn/
+academic – huedeku – /hui̯ˈdɛkʌ/ [hui̯ˈdɛgʌ]
+personal – humku – /ˈhʌmkʌ/
+dense – hurr – /hʌr/
+sharp; steep – iigu – /ˈiːgʌ/
+sticky – iiteesi – /iːˈtɛːsi/ [iːˈtɛːʃ]
+greedy – iivuera – /iːˈvui̯rä/
+golden – ijeera – /iˈjɛːrä/
+major – imii – /ˈimiː/
+red; purple – ini – /ˈini/
+hot – ira – /ˈirä/
+favorite – iroo – /ˈirɔː/
+blind – ito – /ˈitɔ/
+other; new; spare – jaa – /jäː/
+alone – jann – /jän/
+quiet; shy – japee – /ˈjäpɛː/ [ˈjäbɛː]
+important – jau – /jäʌ̯/
+former – jaum – /jäʌ̯m/
+cruel; nasty – javo – /ˈjävɔ/
+evident – jeeni – /ˈjɛːni/
+even; parallel – jem – /jɛm/
+brief – jera – /ˈjɛrä/
+tropical – jiige – /ˈjiːgɛ/
+crazy; insane; absurd – jiledau – /jiˈlɛdäʌ̯/
+probable – jobo – /ˈjɔbɔ/
+legal – joonku – /ˈjɔːnkʌ/
+offensive – juelsi – /ˈjui̯lsi/ [jui̯lʃ]
+ignorant – juerr – /jui̯r/
+casual – jur – /jʌr/
+short; low – juu – /jʌː/
+automatic – kaan – /käːn/
+awesome – kabo – /ˈkäbɔ/
+good; excellent; fantastic; wonderful; fabulous; terrific; superb; nice; amazing – kaem – /käi̯m/
+hungry – käkera – /kæˈkɛrä/ [kæˈgɛrä]
+logical – känku – /ˈkænkʌ/
+reasonable – känra – /ˈkænrä/
+logical – känra – /ˈkænrä/
+infinite – käsar – /ˈkæsär/
+absent – kasuumra – /käˈsʌːmrä/ [käˈʃʌmrä]
+benign; gentle – kebo – /ˈkɛbɔ/
+formal – keebue – /ˈkɛːbui̯/
+huge – keegoopi – /kɛːˈgɔːpi/ [kɛːˈgɔːbi]
+general; generic – keem – /kɛːm/
+left – keen – /kɛːn/
+volatile – keenä – /ˈkɛːnæ/
+acute – keepe – /ˈkɛːpɛ/ [ˈkɛːbɛ]
+triple – keje – /ˈkɛjɛ/
+stupid; dumb; dull; silly; dim – kema – /ˈkɛmä/
+guilty – kesenra – /kɛˈsɛnrä/
+serial – kesuu – /ˈkɛsʌː/ [ˈkɛʃʌ]
+obese – kibiin – /ˈkibiːn/
+yellow; green; blue; orange; brown – kiigo – /ˈkiːgɔ/
+weird; strange; bizarre; peculiar – kiilau – /ˈkiːläʌ̯/
+fashionable – kiilira – /kiːˈlirä/
+funny – kiisi – /ˈkiːsi/ [kiːʃ]
+arrogant – kiite – /ˈkiːtɛ/
+bankrupt; broke – kimuu – /ˈkimʌː/
+hard; difficult – kine – /ˈkinɛ/
+complex – kisiiko – /kiˈsiːkɔ/ [kiˈʃigɔ]
+busy – kom – /kɔm/
+arrogant – koogiim – /ˈkɔːgiːm/
+rough – kuesaa – /ˈkui̯säː/
+polite – kuihu – /ˈkui̯hʌ/
+easy; simple – kuill – /kui̯l/
+empty; vacant; hollow – kuje – /ˈkʌjɛ/
+big; great (very large) – kumm – /kʌm/
+right (direction) – kuu – /kʌː/
+happy – kuusaa – /ˈkʌːsäː/
+abundant; lush; fertile – laeri – /ˈläi̯ri/
+competent – lail – /läi̯l/
+subtle – läsimm – /ˈlæsim/ [læʃm]
+only – lau – /läʌ̯/
+ambiguous; elusive – laurau – /ˈläʌ̯räʌ̯/
+gorgeous; handsome; attractive – leeku – /ˈlɛːkʌ/ [ˈlɛːgʌ]
+last (only remaining) – lii – /liː/
+bright – liidira – /liːˈdirä/
+raw – liin – /liːn/
+bloody – liinaera – /liːˈnäi̯rä/
+previous – lir – /lir/
+sad – lisua – /ˈliʃä/
+backward – lojeni – /lɔˈjɛni/
+little – loo – /lɔː/
+lazy – loojau – /ˈlɔːjäʌ̯/
+deep – luhain – /ˈlʌhäi̯n/
+same – lui – /lui̯/
+sour; bitter – lupe – /ˈlʌpɛ/ [ˈlʌbɛ]
+able; capable; ready – luu – /lʌː/
+complicated – luujii – /ˈlʌːjiː/
+special; unique – maapaa – /ˈmäːpäː/ [ˈmäːbäː]
+common; frequent; normal; regular; medium – maibi – /ˈmäi̯bi/
+careful – mänsi – /ˈmænsi/ [mænʃ]
+proud – marra – /ˈmärrä/
+thick – maugo – /ˈmäʌ̯gɔ/
+silent – meemira – /mɛːˈmirä/
+serious – mega – /ˈmɛgä/
+jealous – meli – /ˈmɛli/
+sexual – memora – /mɛˈmɔrä/
+single – menn – /mɛn/
+popular; famous – metivä – /mɛˈtivæ/
+reluctant – mider – /ˈmidɛr/
+sorry – miee – /ˈmiɛː/ [mjɛː]
+vicious – migäll – /ˈmigæl/
+reverse – miibaa – /ˈmiːbäː/
+awful; terrible – miii – /ˈmiiː/ [mjiː]
+eager – miilaa – /ˈmiːläː/
+young – miinra – /ˈmiːnrä/
+certain; sure – miir – /miːr/
+wild – miki – /ˈmiki/ [ˈmigi]
+long – mimura – /miˈmʌrä/
+distant – mimura – /miˈmʌrä/
+skilled – minomra – /miˈnɔmrä/
+permanent – mitee – /ˈmitɛː/
+neat; fine (okay) – monoo – /ˈmɔnɔː/
+recent – moovoom – /ˈmɔːvɔːm/
+specific; definite; particular – mopa – /ˈmɔpä/ [ˈmɔbä]
+real; authentic – morr – /mɔr/
+internal – muerku – /ˈmui̯rkʌ/
+confident – mugo – /ˈmʌgɔ/
+interior – muir – /mui̯r/
+ready; ripe – mupaa – /ˈmʌpäː/ [ˈmʌbäː]
+precious; rare – näm – /næm/
+dumb (speechless) – nati – /ˈnäti/
+dry – nebi – /ˈnɛbi/
+conscious – neegi – /ˈnɛːgi/
+narrow – neeko – /ˈnɛːkɔ/ [ˈnɛːgɔ]
+urban – neemra – /ˈnɛːmrä/
+exempt – neniivu – /nɛˈniːvʌ/
+best – niim – /niːm/
+bizarre – niir – /niːr/
+sick; ill; unwell – niji – /ˈniji/
+pink – nitu – /ˈnitʌ/
+past – nomm – /nɔm/
+flirtatious – noonsi – /ˈnɔːnsi/ [nɔːnʃ]
+friendly – nosära – /nɔˈsærä/
+fluent – notii – /ˈnɔtiː/
+successful – nudiira – /nʌˈdiːrä/
+evil; mean – nuukä – /ˈnʌːkæ/ [ˈnʌːgæ]
+loyal – nuum – /nʌːm/
+different; distinct; various – nuun – /nʌːn/
+rugged – odoo – /ˈɔdɔː/
+white; blank; clear; transparent – ol – /ɔl/
+cold; cool (slightly cold) – oobue – /ˈɔːbui̯/
+awake; aware – oodäm – /ˈɔːdæm/
+angry; mad – opui – /ˈɔpui̯/ [ˈɔbui̯]
+beautiful; attractive – oserai – /ɔˈsɛräi̯/
+lethal; fatal – otänn – /ˈɔtæn/
+scarce – ovuel – /ˈɔvui̯l/
+tired (needing sleep); tired (needing rest) – pa – /pä/
+fat – pä – /pæ/
+healthy – peeko – /ˈpɛːkɔ/ [ˈpɛːgɔ]
+rigorous – pehee – /ˈpɛhɛː/
+safe; immune – pekuu – /ˈpɛkʌː/ [ˈpɛgʌː]
+fragile – pell – /pɛl/
+extinct – pemuegä – /pɛˈmui̯gæ/
+fresh; crisp – piihau – /ˈpiːhäʌ̯/
+sensible – piila – /ˈpiːlä/
+holy; sacred – piire – /ˈpiːrɛ/
+humble; modest – pije – /ˈpijɛ/
+basic – pikuu – /ˈpikʌː/ [ˈpigʌː]
+cultural – piniiku – /piˈniːkʌ/ [piˈniːgʌ]
+fine (okay) – pipe – /ˈpipɛ/ [ˈpibɛ]
+native – pito – /ˈpitɔ/
+late – po – /pɔ/
+drunk (inebriated) – poli – /ˈpɔli/
+last (final); last (previous) – poone – /ˈpɔːnɛ/
+slow; late – porr – /pɔr/
+black – povu – /ˈpɔvʌ/
+minor; mere; petty – pulo – /ˈpʌlɔ/
+dark – raemi – /ˈräi̯mi/
+instant – raki – /ˈräki/ [ˈrägi]
+shiny – rämsi – /ˈræmsi/ [ræmʃ]
+tired (needing rest); lazy – rau – /räʌ̯/
+comic – rauju – /ˈräʌ̯jʌ/
+thin (narrow) – reem – /rɛːm/
+vague; fuzzy – riibiia – /riːˈbiːä/
+cool (fashionable) – rijo – /ˈrijɔ/
+high; loud; noisy – ro – /rɔ/
+accurate; valid – rota – /ˈrɔtä/
+coherent – rovaimoo – /rɔˈväi̯mɔː/
+scared; afraid – ruujau – /ˈrʌːjäʌ̯/
+ancient; antique – ruusi – /ˈrʌːsi/ [rʌːʃ]
+sore – säbui – /ˈsæbui̯/
+critical – sähesi – /sæˈhɛsi/ [sæˈhɛʃ]
+next – säjee – /ˈsæjɛː/
+regular – säkesiee – /sæˈkɛʃɛː/ [sæˈgɛʃɛː]
+boring – sämsi – /ˈsæmsi/ [sæmʃ]
+usual – särr – /sær/
+private – sau – /säʌ̯/
+wet; damp; moist – sedela – /sɛˈdɛlä/
+intense – seegoo – /ˈsɛːgɔː/
+skinny – segän – /ˈsɛgæn/
+compact – siäsu – /ˈʃæsʌ/ [ʃæʃ]
+fun – siävii – /ˈʃæviː/
+smart; intelligent; clever; wise – siidau – /ˈʃidäʌ̯/
+blonde – siidi – /ˈʃidi/
+sober – siiin – /ʃiːn/
+middle – siil – /siːl/ [ʃil]
+perfect; pure – siill – /ʃil/
+warm – siim – /siːm/ [ʃim]
+famous – siirr – /ʃir/
+violent – siiru – /ˈsiːrʌ/ [ˈʃirʌ]
+available – sill – /sil/ [ʃl]
+mobile; portable – simä – /ˈsimæ/ [ʃmæ]
+external – simm – /sim/ [ʃm]
+cheap – sinii – /ˈsiniː/ [ʃniː]
+light (weight) – siogo – /ˈʃɔgɔ/
+classic – siuim – /ʃui̯m/
+dirty – siuipoora – /ʃui̯ˈpɔːrä/ [ʃui̯ˈbɔːrä]
+main; premier – sium – /ʃʌm/
+wrong – somm – /sɔm/
+selfish – somoo – /ˈsɔmɔː/
+stiff; stubborn – sool – /sɔːl/
+false; fake – suän – /ʃæn/
+local – suar – /ʃär/
+great (excellent); awesome – suela – /ˈʃɛlä/
+sole; lone – suenee – /ˈʃɛnɛː/
+pregnant – suenil – /ˈʃɛnil/
+delicious – suiijive – /ʃiːˈjivɛ/
+corrupt – suiil – /ʃiːl/
+tough; robust – suikee – /ˈʃikɛː/ [ˈʃigɛː]
+damp; moist – suikiin – /ˈʃikiːn/ [ˈʃigiːn]
+heavy – suimm – /sui̯m/
+early – suimo – /ˈʃimɔ/
+silly; absurd – suinu – /ˈʃinʌ/
+noble – suipä – /ˈsui̯pæ/ [ˈsui̯bæ]
+massive; enormous – suiseju – /ʃiˈsɛjʌ/
+true; honest; pure; sincere; innocent; earnest; moral; wholesome – sukuu – /ˈsʌkʌː/ [ʃkʌː]
+close; accurate – sunn – /sʌn/ [ʃn]
+great (very large); enormous – suoll – /ʃɔl/
+sudden; abrupt; swift – suum – /sʌːm/ [ʃʌm]
+sweet; delicious – suuto – /ˈsʌːtɔ/ [ˈʃʌtɔ]
+technological – taamku – /ˈtäːmkʌ/
+right; correct; appropriate; valid; moral – tai – /täi̯/
+strong – tara – /ˈtärä/
+new; current – tau – /täʌ̯/
+aroused (sexually) – taun – /täʌ̯n/
+gay; homosexual – teemi – /ˈtɛːmi/
+whole; entire – teepä – /ˈtɛːpæ/ [ˈtɛːbæ]
+significant – teer – /tɛːr/
+deliberate – tiihu – /ˈtiːhʌ/
+ironic – tiin – /tiːn/
+nice – tijui – /ˈtijui̯/
+weak – till – /til/
+wide; broad – tom – /tɔm/
+hot (attractive) – tooke – /ˈtɔːkɛ/ [ˈtɔːgɛ]
+fast; smart; intelligent; quick – tueduu – /ˈtui̯dʌː/
+religious – tuimooku – /tui̯ˈmɔːkʌ/ [tui̯ˈmɔːgʌ]
+naive; innocent – tuinä – /ˈtui̯næ/
+flat; smooth; sleek – tull – /tʌl/
+medical – tuugiiku – /tʌːˈgiːkʌ/ [tʌːˈgiːgʌ]
+plausible – tuulo – /ˈtʌːlɔ/
+miniature – uepe – /ˈui̯pɛ/ [ˈui̯bɛ]
+imminent; pending – uer – /ui̯r/
+keen – uikaa – /ˈui̯käː/ [ˈui̯gäː]
+round – uki – /ˈʌki/ [ˈʌgi]
+solid – ukim – /ˈʌkim/ [ˈʌgim]
+gross – upe – /ˈʌpɛ/ [ˈʌbɛ]
+necessary – uujue – /ˈʌːjui̯/
+convenient – uukä – /ˈʌːkæ/ [ˈʌːgæ]
+tall – uvije – /ʌˈvijɛ/
+suspicious – vagiko – /väˈgikɔ/ [fäˈgigɔ]
+foreign – vake – /ˈväkɛ/ [ˈfägɛ]
+natural – vänku – /ˈvænkʌ/ [ˈfænkʌ]
+bald – vautä – /ˈväʌ̯tæ/ [ˈfäʌ̯tæ]
+ugly; awful; terrible – veesii – /ˈvɛːsiː/ [ˈfɛːʃi]
+risky – vemra – /ˈvɛmrä/ [ˈfɛmrä]
+extreme; severe; radical – vesiaa – /ˈvɛʃäː/ [ˈfɛʃäː]
+large; massive; enormous; huge – vii – /viː/ [fiː]
+buxom – viisii – /ˈviːʃi/ [ˈfiːʃi]
+intimate – visu – /ˈvisʌ/ [fiʃ]
+clean; neat; elegant – voboo – /ˈvɔbɔː/ [ˈfɔbɔː]
+powerful – vono – /ˈvɔnɔ/ [ˈfɔnɔ]
+painful – voovera – /vɔːˈvɛrä/ [fɔːˈvɛrä]
+tight; tense; firm – vuesuum – /ˈvui̯sʌːm/ [ˈfui̯ʃʌm]
+live – vunii – /ˈvʌniː/ [ˈfʌniː]
+damn – vuuhi – /ˈvʌːhi/ [ˈfʌːhi]
+
+
+[Verbs]
+eat – aan – /äːn/
+flee – aane – /ˈäːnɛ/
+seem; appear; manifest – aar – /äːr/
+research – ade – /ˈädɛ/
+block – aerui – /ˈäi̯rui̯/
+scrub; rub; polish; wash; stroke; massage; wipe – agi – /ˈägi/
+tolerate; sustain – ägi – /ˈægi/
+glare – aim – /äi̯m/
+vanish; disappear – äji – /ˈæji/
+place – äkipoojä – /ˌækiˈpɔːjæ/ [ˌægiˈbɔːjæ]
+tangle – äloo – /ˈælɔː/
+sew – amaa – /ˈämäː/
+drag; draw – amue – /ˈämui̯/
+jump; skip; bounce – ann – /än/
+swallow – anu – /ˈänʌ/
+dine – apuu – /ˈäpʌː/ [ˈäbʌː]
+spread – asäba – /äˈsæbä/
+break; smash; split; tear; shatter – asiai – /ˈäʃäi̯/
+harass; intimidate – äso – /ˈæsɔ/
+feel (perceive; sense) – au – /äʌ̯/
+meditate – auleen – /ˈäʌ̯lɛːn/
+ask (inquire); ask (request) – aull – /äʌ̯l/
+bounce – aum – /äʌ̯m/
+call (cry out) – da – /dä/
+have; must; have to; own; get; include – dä – /dæ/
+escort – daam – /däːm/
+practice – dael – /däi̯l/
+play (have fun) – daer – /däi̯r/
+applaud; cheer – dahue – /ˈdähui̯/
+affect; influence – dal – /däl/
+soak; saturate; irrigate; marinate – dämm – /dæm/
+smuggle – dätii – /ˈdætiː/
+circulate; publish – dävii – /ˈdæviː/
+die – deehe – /ˈdɛːhɛ/
+print – deer – /dɛːr/
+flash – deju – /ˈdɛjʌ/
+burst; explode; blow up; erupt – dere – /ˈdɛrɛ/
+skate – didu – /ˈdidʌ/
+explode; blow up – dihu – /ˈdihʌ/
+own; possess – dii – /diː/
+send; transfer – diil – /diːl/
+slide; slip; skid – diili – /ˈdiːli/
+evacuate – dipii – /ˈdipiː/ [ˈdibiː]
+moan – disui – /ˈdiʃi/
+remark – dobui – /ˈdɔbui̯/
+complete; achieve; accomplish – doho – /ˈdɔhɔ/
+steal; rob – dokii – /ˈdɔkiː/ [ˈdɔgiː]
+bark; roar – dole – /ˈdɔlɛ/
+compose – domm – /dɔm/
+look; glance – doo – /dɔː/
+sort; arrange – doojui – /ˈdɔːjui̯/
+drain – dosuu – /ˈdɔsʌː/ [ˈdɔʃʌ]
+define – doti – /ˈdɔti/
+test; analyze – du – /dʌ/
+prepare – dum – /dʌm/
+haggle – dusoo – /ˈdʌsɔː/
+faint – duul – /dʌːl/
+shock; startle; stun; surprise – duum – /dʌːm/
+amuse – duupoo – /ˈdʌːpɔː/ [ˈdʌːbɔː]
+finish; complete – duur – /dʌːr/
+interrupt; interfere – duuso – /ˈdʌːsɔ/
+be (exist); be (permanent state) – e – /ɛ/
+go; leave (depart) – ee – /ɛː/
+segregate; discriminate – eebir – /ˈɛːbir/
+gasp – eedi – /ˈɛːdi/
+authorize – eehäjä – /ɛːˈhæjæ/
+infect – eejä – /ˈɛːjæ/
+mix; weave; combine – eelä – /ˈɛːlæ/
+starve – eem – /ɛːm/
+surround – eemä – /ˈɛːmæ/
+let; allow (let); enable; approve – een – /ɛːn/
+continue; keep (continue); last; sustain – eena – /ˈɛːnä/
+swing; hang; sway; wave (salutation) – eesioo – /ˈɛːʃɔː/
+claim; allege; testify – egi – /ˈɛgi/
+comprehend; fathom – eguu – /ˈɛgʌː/
+ring – elu – /ˈɛlʌ/
+stall – enaa – /ˈɛnäː/
+arrange; organize; set up – enikuel – /ɛˈnikui̯l/ [ɛˈnigui̯l]
+name; dub – enu – /ˈɛnʌ/
+resist; prevent – epee – /ˈɛpɛː/ [ˈɛbɛː]
+trick; deceive; betray; bluff – epo – /ˈɛpɔ/ [ˈɛbɔ]
+cause; induce – esähaa – /ɛˈsæhäː/
+feed – esii – /ˈɛʃi/
+consult – etii – /ˈɛtiː/
+call (request the attendance of) – faa – /fäː/
+elect – faaniiljä – /fäːˈniːljæ/
+balance; poise – fäduu – /ˈfædʌː/
+plan – fae – /fäi̯/
+wrap; fold – faise – /ˈfäi̯sɛ/
+act; behave – faive – /ˈfäi̯vɛ/
+stare – fäme – /ˈfæmɛ/
+exploit – fäsui – /ˈfæʃi/
+offer – fau – /fäʌ̯/
+ignore; overlook – faumm – /fäʌ̯m/
+experience – fautuu – /ˈfäʌ̯tʌː/
+fetch; earn – feho – /ˈfɛhɔ/
+foster; adopt – femo – /ˈfɛmɔ/
+swear – fetee – /ˈfɛtɛː/
+change – fevauvin – /fɛˈväʌ̯vin/
+splash – fihä – /ˈfihæ/
+provoke; exacerbate – fiipä – /ˈfiːpæ/ [ˈfiːbæ]
+assassinate – fimee – /ˈfimɛː/
+carry; lift – fin – /fin/
+insure; assure; guarantee; convince – fipol – /ˈfipɔl/ [ˈfibɔl]
+upset; bother; disturb – firii – /ˈfiriː/
+notify; inform; alert – fituu – /ˈfitʌː/
+promote – fivu – /ˈfivʌ/
+decay; deteriorate – fogee – /ˈfɔgɛː/
+nod – fonn – /fɔn/
+forgive; pardon – fonuu – /ˈfɔnʌː/
+may – foo – /fɔː/
+pose – foor – /fɔːr/
+impress – foro – /ˈfɔrɔ/
+work (function); work (have desired result) – fu – /fʌ/
+cut; snip; slash; shave; tear; rip – fue – /fui̯/
+stretch – fuemo – /ˈfui̯mɔ/
+assign; allocate – fuesä – /ˈfui̯sæ/
+decide – fum – /fʌm/
+turn on – fun – /fʌn/
+defecate – fusuon – /ˈfʌʃɔn/
+ridicule; humiliate – futoo – /ˈfʌtɔː/
+check; examine; review; confirm – fuupamm – /ˈfʌːpäm/ [ˈfʌːbäm]
+roast – fuur – /fʌːr/
+close; shut; expire – fuusio – /ˈfʌːʃɔ/
+see; watch; discover; spectate; detect; perceive; imagine; envision; foresee; date; go out; predict; anticipate; estimate – ha – /hä/
+skip; skim – haan – /häːn/
+prefer – haapuell – /ˈhäːpui̯l/ [ˈhäːbui̯l]
+bite – häbe – /ˈhæbɛ/
+brag – häbee – /ˈhæbɛː/
+help; assist; improve – häll – /hæl/
+probe – haumm – /häʌ̯m/
+can – he – /hɛ/
+wear; put on – hee – /hɛː/
+bow (greet) – heehonee – /hɛːˈhɔnɛː/
+drive – heeno – /ˈhɛːnɔ/
+survive – hehim – /ˈhɛhim/
+affirm; swear – hemämm – /ˈhɛmæm/
+deposit – hijä – /ˈhijæ/
+arouse – hilumm – /ˈhilʌm/
+cost – hin – /hin/
+situate – hina – /ˈhinä/
+confine – hisuu – /ˈhiʃʌ/
+aim; intend – hito – /ˈhitɔ/
+add; combine; inject; implant; embed – ho – /hɔ/
+touch; feel (sense by touch) – hodo – /ˈhɔdɔ/
+pinch – hogi – /ˈhɔgi/
+meet – hoko – /ˈhɔkɔ/ [ˈhɔgɔ]
+might – hola – /ˈhɔlä/
+blend; merge – honee – /ˈhɔnɛː/
+cook (heat food); cook (prepare food) – hoo – /hɔː/
+squat; crouch; perch – hoobo – /ˈhɔːbɔ/
+tread; step on – hoojii – /ˈhɔːjiː/
+crumble – hoopi – /ˈhɔːpi/ [ˈhɔːbi]
+chop – hoosiuul – /ˈhɔːʃʌːl/
+dangle – huivä – /ˈhui̯væ/
+complain – huke – /ˈhʌkɛ/ [ˈhʌgɛ]
+lend; loan – hun – /hʌn/
+glance – huulau – /ˈhʌːläʌ̯/
+warn – ibä – /ˈibæ/
+drape – ibusiii – /iˈbʌʃiː/
+retrieve; bring back; fetch – idii – /ˈidiː/
+steer; sail; cruise; navigate – iee – /ˈiɛː/ [jɛː]
+frustrate – igi – /ˈigi/
+marry – ihii – /ˈihiː/
+lean; tilt – iiha – /ˈiːhä/
+accompany – iikuso – /iːˈkʌsɔ/ [iːˈgʌsɔ]
+hire; rent – iirä – /ˈiːræ/
+replace; substitute – iirenn – /ˈiːrɛn/
+desire – iiruum – /ˈiːrʌːm/
+patrol – iisinaa – /iːˈsinäː/ [iːʃˈnäː]
+connect; attach; combine; stick; cling; attribute – iitee – /ˈiːtɛː/
+sell – ijue – /ˈijui̯/
+argue; testify; debate – ikell – /ˈikɛl/ [ˈigɛl]
+walk – ill – /il/
+wait; stay; linger – inn – /in/
+invite – ipuu – /ˈipʌː/ [ˈibʌː]
+guess – ir – /ir/
+appreciate – ireen – /ˈirɛːn/
+comply; conform – iru – /ˈirʌ/
+wind – iselo – /iˈsɛlɔ/
+scream – isidii – /iˈsidiː/ [iʃˈdiː]
+quote – isui – /ˈiʃi/
+march – ivui – /ˈivui̯/
+serve – ja – /jä/
+damage; impair – jaakiin – /ˈjäːkiːn/ [ˈjäːgiːn]
+hang – jaam – /jäːm/
+respect – jäkaa – /ˈjækäː/ [ˈjægäː]
+deal; haggle – jäll – /jæl/
+flow – jaun – /jäʌ̯n/
+cull – jeedu – /ˈjɛːdʌ/
+quit; surrender; give up – jeeli – /ˈjɛːli/
+reflect – jepä – /ˈjɛpæ/ [ˈjɛbæ]
+betray – jepau – /ˈjɛpäʌ̯/ [ˈjɛbäʌ̯]
+increase; expand; enhance; boost – jer – /jɛr/
+drip – jesuu – /ˈjɛsʌː/ [ˈjɛʃʌ]
+leap – jigii – /ˈjigiː/
+export – jihee – /ˈjihɛː/
+groan; moan – jiibi – /ˈjiːbi/
+revolve – jiibo – /ˈjiːbɔ/
+forge; mold – jiike – /ˈjiːkɛ/ [ˈjiːgɛ]
+clarify – jiil – /jiːl/
+improve; refine – jiilaeke – /jiːˈläi̯kɛ/ [jiːˈläi̯gɛ]
+oppress – jiiti – /ˈjiːti/
+mean (signify); indicate – jijee – /ˈjijɛː/
+fail – jill – /jil/
+hunt – jir – /jir/
+date; go out; escort – jisuä – /ˈjiʃæ/
+advocate – jitii – /ˈjitiː/
+defeat; beat – johä – /ˈjɔhæ/
+hit; beat (strike); punch; slap; collide – jom – /jɔm/
+would – joo – /jɔː/
+present; introduce – jooji – /ˈjɔːji/
+grow up; sprout – jookoo – /ˈjɔːkɔː/ [ˈjɔːgɔː]
+analyze – joorjä – /ˈjɔːrjæ/
+weave – joove – /ˈjɔːvɛ/
+pierce; prick – jorämi – /jɔˈræmi/
+copy; imitate; replicate – jovirr – /ˈjɔvir/
+watch; monitor – jovu – /ˈjɔvʌ/
+know (a fact); understand – ju – /jʌ/
+absorb – jueki – /ˈjui̯ki/ [ˈjui̯gi]
+look out; watch out – juhau – /ˈjʌhäʌ̯/
+trust; rely on – juhooni – /jʌˈhɔːni/
+insult; offend – juill – /jui̯l/
+wreck – julee – /ˈjʌlɛː/
+worry – jum – /jʌm/
+push; press; squeeze; clutch – jumi – /ˈjʌmi/
+hum – jusuo – /ˈjʌʃɔ/
+rehearse; recite – juuke – /ˈjʌːkɛ/ [ˈjʌːgɛ]
+describe – juuljä – /ˈjʌːljæ/
+order; demand; impose – juun – /jʌːn/
+think; consider; understand; ponder; grasp; inspect; scrutinize; examine; embrace – kä – /kæ/
+compete – kaar – /käːr/
+recycle – kaigi – /ˈkäi̯gi/
+insist; protest – kaivil – /ˈkäi̯vil/
+modify – käkae – /ˈkækäi̯/ [ˈkægäi̯]
+get; obtain; take; capture; collect; reserve; remove; take out; deprive; take away; kidnap; possess; acquire; deposit; expel; evacuate; accumulate; compile – kamm – /käm/
+pant – kamobo – /käˈmɔbɔ/
+strive – käno – /ˈkænɔ/
+buy; purchase; shop – kätu – /ˈkætʌ/
+try (attempt); attempt – kau – /käʌ̯/
+start; begin – ke – /kɛ/
+retreat – keebämm – /ˈkɛːbæm/
+escape – keene – /ˈkɛːnɛ/
+defend; guard; prevent; deter; intercept – keer – /kɛːr/
+bid – keeremi – /kɛːˈrɛmi/
+hurt; injure – keiku – /kɛˈikʌ/ [kɛˈigʌ]
+win – kel – /kɛl/
+record – kenn – /kɛn/
+cure – kepe – /ˈkɛpɛ/ [ˈkɛbɛ]
+access – kepu – /ˈkɛpʌ/ [ˈkɛbʌ]
+confuse; distract – kerr – /kɛr/
+post – kibe – /ˈkibɛ/
+plant; bury – kihi – /ˈkihi/
+speculate – kiipoo – /ˈkiːpɔː/ [ˈkiːbɔː]
+spit – kiivä – /ˈkiːvæ/
+forget; ignore – kike – /ˈkikɛ/ [ˈkigɛ]
+keep (store); store – kil – /kil/
+innovate – kilaudoo – /kiˈläʌ̯dɔː/
+violate; assault – kile – /ˈkilɛ/
+hiss – kilibaa – /kiˈlibäː/
+cooperate; collaborate – kimau – /ˈkimäʌ̯/
+name – kimm – /kim/
+embark – kipee – /ˈkipɛː/ [ˈkibɛː]
+bust – kiroo – /ˈkirɔː/
+fall; tumble; stumble; slip – kirr – /kir/
+enrich – kiruu – /ˈkirʌː/
+complicate – kisii – /ˈkisiː/ [ˈkiʃi]
+masturbate – kogaa – /ˈkɔgäː/
+stamp – koko – /ˈkɔkɔ/ [ˈkɔgɔ]
+realize – kolai – /ˈkɔläi̯/
+borrow – kome – /ˈkɔmɛ/
+install; establish – kon – /kɔn/
+sneeze – konuupä – /kɔˈnʌːpæ/ [kɔˈnʌːbæ]
+please – kool – /kɔːl/
+face – koor – /kɔːr/
+mourn – kopa – /ˈkɔpä/ [ˈkɔbä]
+ride – korr – /kɔr/
+bribe – kosiemm – /ˈkɔʃɛm/
+emphasize – kosium – /ˈkɔʃʌm/
+flick – kotor – /ˈkɔtɔr/
+commute – kuegu – /ˈkui̯gʌ/
+miss (not hit); miss (not take advantage of) – kuen – /kui̯n/
+dance – kuiboo – /ˈkui̯bɔː/
+delay; postpone – kumon – /ˈkʌmɔn/
+fit – kun – /kʌn/
+contain; include – kupänu – /kʌˈpænʌ/ [kʌˈbænʌ]
+relieve – kur – /kʌr/
+vote – kuumi – /ˈkʌːmi/
+collapse; topple – kuur – /kʌːr/
+dial – kuutu – /ˈkʌːtʌ/
+found; establish – kuuvue – /ˈkʌːvui̯/
+move – lä – /læ/
+recruit – laan – /läːn/
+decorate – laer – /läi̯r/
+propel; hurl – laipui – /ˈläi̯pui̯/ [ˈläi̯bui̯]
+long (want for) – läkä – /ˈlækæ/ [ˈlægæ]
+evoke – läkaa – /ˈlækäː/ [ˈlægäː]
+retire – laki – /ˈläki/ [ˈlägi]
+wink – lälo – /ˈlælɔ/
+tremble; vibrate – lämirr – /ˈlæmir/
+hide; lurk – lämm – /læm/
+drench; saturate – lautii – /ˈläʌ̯tiː/
+audit – lebii – /ˈlɛbiː/
+set – leel – /lɛːl/
+study; examine – leetu – /ˈlɛːtʌ/
+erase – lege – /ˈlɛgɛ/
+blast – lehimm – /ˈlɛhim/
+return; go back – lenn – /lɛn/
+astonish – ler – /lɛr/
+show off – lesuee – /ˈlɛʃɛː/
+prosecute – liibe – /ˈliːbɛ/
+light; illuminate – liidi – /ˈliːdi/
+cuddle – liihi – /ˈliːhi/
+swim – liimuepo – /liːˈmui̯pɔ/ [liːˈmui̯bɔ]
+bleed – liinaijä – /liːˈnäi̯jæ/
+affiliate – limo – /ˈlimɔ/
+manage – lobuti – /lɔˈbʌti/
+attack – loibee – /lɔˈibɛː/
+invest; deposit – lokeekorr – /lɔˈkɛːkɔr/ [lɔˈgɛːgɔr]
+shoot; propel; fire (detonate weapon); blast – loko – /ˈlɔkɔ/ [ˈlɔgɔ]
+harm – lomii – /ˈlɔmiː/
+grind – lonelee – /lɔˈnɛlɛː/
+scramble – lool – /lɔːl/
+sip – loon – /lɔːn/
+clap – loonui – /ˈlɔːnui̯/
+bring; lead; direct; conduct – lopee – /ˈlɔpɛː/ [ˈlɔbɛː]
+save (put aside) – losiiil – /ˈlɔʃiːl/
+try (test out); examine – lu – /lʌ/
+fire (from job) – luem – /lui̯m/
+weep – luinärr – /ˈlui̯nær/
+feel (sense by touch); feel (examine by touch) – lun – /lʌn/
+strip – lurr – /lʌr/
+intend – lusii – /ˈlʌʃi/
+join; tie – luun – /lʌːn/
+know (be acquainted with) – ma – /mä/
+give; let; allow; permit; approve; contribute; supply; arm – mä – /mæ/
+tackle – maakä – /ˈmäːkæ/ [ˈmäːgæ]
+involve; entail – maal – /mäːl/
+remember – maejaa kam – /ˈmäi̯jäː käm/
+suppress; squash; muffle – maemm – /mäi̯m/
+say – mai – /mäi̯/
+detect – mäkoo – /ˈmækɔː/ [ˈmægɔː]
+trade – mäl – /mæl/
+become (begin to be) – mälii – /ˈmæliː/
+exclude – mami – /ˈmämi/
+care – män – /mæn/
+inhibit – mapui – /ˈmäpui̯/ [ˈmäbui̯]
+gain; earn – mäse – /ˈmæsɛ/
+pray; beg – mäso – /ˈmæsɔ/
+torture – mätärr – /ˈmætær/
+blush – mäte – /ˈmætɛ/
+breathe – maugai – /ˈmäʌ̯gäi̯/
+talk; speak; chat – me – /mɛ/
+ban; prohibit; veto – medoo – /ˈmɛdɔː/
+could – mee – /mɛː/
+state; declare – meel – /mɛːl/
+graze (feed on) – meelo – /ˈmɛːlɔ/
+dream – meemjä – /ˈmɛːmjæ/
+worship – meemui – /ˈmɛːmui̯/
+spin – meesi – /ˈmɛːsi/ [mɛːʃ]
+surpass; excel – meeso – /ˈmɛːsɔ/
+apply – mekue – /ˈmɛkui̯/ [ˈmɛgui̯]
+halt; ban; prohibit – mekuu – /ˈmɛkʌː/ [ˈmɛgʌː]
+rule; reign – mem – /mɛm/
+charge – menol – /ˈmɛnɔl/
+choose; select – mese – /ˈmɛsɛ/
+reproduce – mibebae – /miˈbɛbäi̯/
+hope; wish – miberr – /ˈmibɛr/
+scratch; scrape; scoop – migir – /ˈmigir/
+lose – mihi – /ˈmihi/
+struggle; wrestle – mii – /ˈmii/ [mji]
+deploy – miiä – /ˈmiːæ/
+pat – miiju – /ˈmiːjʌ/
+protest – miikiikäl – /miːˈkiːkæl/ [miːˈgiːgæl]
+thrust – miil – /miːl/
+fight – miiloo – /ˈmiːlɔː/
+revise; amend – miimi – /ˈmiːmi/
+crush; grind; ruffle; cram; jam; squash – miimo – /ˈmiːmɔ/
+control – miitänn – /ˈmiːtæn/
+shout; yell – mikai – /ˈmikäi̯/ [ˈmigäi̯]
+heal – miku – /ˈmikʌ/ [ˈmigʌ]
+tear; rip – minu – /ˈminʌ/
+reconcile – mipo – /ˈmipɔ/ [ˈmibɔ]
+paralyze – mirä – /ˈmiræ/
+protect – miriijä – /miˈriːjæ/
+count – mirr – /mir/
+stir; stoke – misio – /ˈmiʃɔ/
+roam; drift – misuee – /ˈmiʃɛː/
+whistle – misuii – /ˈmiʃiː/
+choke; gag – mitu – /ˈmitʌ/
+certify – modi – /ˈmɔdi/
+hop; bounce – mogee – /ˈmɔgɛː/
+feign – moho – /ˈmɔhɔ/
+import – mojiigue – /mɔˈjiːgui̯/
+crawl – mojuu – /ˈmɔjʌː/
+crumple; ruffle – moka – /ˈmɔkä/ [ˈmɔgä]
+bloom; blossom; flourish; sprout – mokui – /ˈmɔkui̯/ [ˈmɔgui̯]
+take; receive; acquire – mom – /mɔm/
+qualify – momo – /ˈmɔmɔ/
+work (be employed); work (toil) – moo – /mɔː/
+bend; lean – mooda – /ˈmɔːdä/
+fade; evaporate – mookiir – /ˈmɔːkiːr/ [ˈmɔːgiːr]
+advance – moomi – /ˈmɔːmi/
+vibrate; rattle; shiver – moomu – /ˈmɔːmʌ/
+snow – moovi – /ˈmɔːvi/
+disrupt; interrupt – mopii – /ˈmɔpiː/ [ˈmɔbiː]
+volunteer; enlist – mosi – /ˈmɔsi/ [mɔʃ]
+roll; rotate; spin – movel – /ˈmɔvɛl/
+graduate – muemomuul – /mui̯ˈmɔmʌːl/
+teach; instruct; educate – muil – /mui̯l/
+whisper; murmur; mumble – musi – /ˈmʌsi/ [mʌʃ]
+wonder – musuiso – /mʌˈʃisɔ/
+publish – mutuvo – /mʌˈtʌvɔ/
+favor – muul – /mʌːl/
+contrast – naajuu – /ˈnäːjʌː/
+achieve; accomplish; work (have desired result) – naaoo – /ˈnäːɔː/
+swirl – naar – /näːr/
+expose – naebae – /ˈnäi̯bäi̯/
+panic – näka – /ˈnækä/ [ˈnægä]
+crunch – nall – /näl/
+believe – nänä – /ˈnænæ/
+scare; frighten; startle – nar – /när/
+thank; praise; admire; worship – nätii – /ˈnætiː/
+save; rescue – naumee – /ˈnäʌ̯mɛː/
+receive; gain – naunn – /näʌ̯n/
+try (strive); work – ne – /nɛ/
+enhance – nedii – /ˈnɛdiː/
+withstand – neede – /ˈnɛːdɛ/
+stop; stay; arrest; halt; paralyze – neel – /nɛːl/
+bless – neemi – /ˈnɛːmi/
+answer; reply; react – neemo – /ˈnɛːmɔ/
+request; demand – nemm – /nɛm/
+rape – nemoose – /nɛˈmɔːsɛ/
+hail – nesee – /ˈnɛsɛː/
+nag – nili – /ˈnili/
+stab – nime – /ˈnimɛ/
+justify – nimell – /ˈnimɛl/
+smile – nine – /ˈninɛ/
+drop – ninn – /nin/
+reap – ninoi – /niˈnɔi/
+embarrass; tease; humiliate – nipe – /ˈnipɛ/ [ˈnibɛ]
+breed – nise – /ˈnisɛ/
+crack – nisii – /ˈnisiː/ [ˈniʃi]
+glide – nivii – /ˈniviː/
+excuse – nobeejä – /nɔˈbɛːjæ/
+withdraw; take out; extract – nodee – /ˈnɔdɛː/
+extinguish; put out – nokoo – /ˈnɔkɔː/ [ˈnɔgɔː]
+grow; evolve; flourish – noll – /nɔl/
+invade – nomu – /ˈnɔmʌ/
+lie – non – /nɔn/
+pull; yank; tug; tow – nono – /ˈnɔnɔ/
+punish; abuse; torture – nooku – /ˈnɔːkʌ/ [ˈnɔːgʌ]
+interfere; intervene – nool – /nɔːl/
+flirt – noon – /nɔːn/
+restrict; restrain – noonae – /ˈnɔːnäi̯/
+penetrate – noone – /ˈnɔːnɛ/
+cover – nuemm – /nui̯m/
+pick – nuije – /ˈnui̯jɛ/
+nap – nuijo – /ˈnui̯jɔ/
+suck – nul – /nʌl/
+giggle – numu – /ˈnʌmʌ/
+persist – nur – /nʌr/
+laugh; chuckle – nurii – /ˈnʌriː/
+monitor; follow – nusä – /ˈnʌsæ/
+regret; lament – nusiol – /ˈnʌʃɔl/
+prove – nusuum – /ˈnʌʃʌm/
+search; look up; explore; investigate; scan; seek; inquire; interrogate – nuunal – /ˈnʌːnäl/
+arrest; detain – obii – /ˈɔbiː/
+smack – odä – /ˈɔdæ/
+rally – ogae – /ˈɔgäi̯/
+cast; fling; hurl – ogoo – /ˈɔgɔː/
+rest – okue – /ˈɔkui̯/ [ˈɔgui̯]
+glow; radiate – olee – /ˈɔlɛː/
+elevate – oma – /ˈɔmä/
+kidnap – omeese – /ɔˈmɛːsɛ/
+employ; enlist – onoo – /ˈɔnɔː/
+complement – oodo – /ˈɔːdɔ/
+separate; divide; isolate; segregate – oojeesuii – /ɔːˈjɛːʃiː/
+chew – ookä – /ˈɔːkæ/ [ˈɔːgæ]
+visit – oomaa – /ˈɔːmäː/
+destroy; devastate – oomu – /ˈɔːmʌ/
+elaborate – ooree – /ˈɔːrɛː/
+relate; correlate – oorii – /ˈɔːriː/
+refer – ootunn – /ˈɔːtʌn/
+growl – oovii – /ˈɔːviː/
+crash; collide – or – /ɔr/
+desert – ore – /ˈɔrɛ/
+accuse – osi – /ˈɔsi/ [ɔʃ]
+show; demonstrate; present – paamall – /ˈpäːmäl/
+want; require; oblige; wish; put (cause to be) – pae – /päi̯/
+trip; stumble; slip – pälui – /ˈpælui̯/
+inhabit – päm – /pæm/
+identify; point out; establish; diagnose – päpi – /ˈpæpi/ [ˈpæbi]
+cheer – päriisä – /pæˈriːsæ/
+ache – pasui – /ˈpäʃi/
+lay – pedoo – /ˈpɛdɔː/
+refuse; veto – peeje – /ˈpɛːjɛ/
+assume; presume; deduce – peemeeni – /pɛːˈmɛːni/
+sigh – peemo – /ˈpɛːmɔ/
+liberate – peeno – /ˈpɛːnɔ/
+conquer – peesuuu – /ˈpɛːʃʌː/
+pave – pegoo – /ˈpɛgɔː/
+repeat; replicate – pejaa – /ˈpɛjäː/
+gather; assemble; congregate; summon; accumulate; huddle – pejil – /ˈpɛjil/
+depend; rely on – pejinn – /ˈpɛjin/
+vindicate – pele – /ˈpɛlɛ/
+fill – pemm – /pɛm/
+tease; mock – peseen – /ˈpɛsɛːn/
+be (age) – pi – /pi/
+disguise – pige – /ˈpigɛ/
+jerk – piibue – /ˈpiːbui̯/
+protect – piibuu – /ˈpiːbʌː/
+respond – piidejä – /piːˈdɛjæ/
+become (change into); get – piil – /piːl/
+shrug – piinol – /ˈpiːnɔl/
+scatter – piite – /ˈpiːtɛ/
+defy – pilipe – /piˈlipɛ/ [piˈlibɛ]
+transcend – pine – /ˈpinɛ/
+spell – pinn – /pin/
+notice; recognize – pite – /ˈpitɛ/
+terminate – pive – /ˈpivɛ/
+celebrate – pivo – /ˈpivɔ/
+sing – podiijä – /pɔˈdiːjæ/
+plow – pohä – /ˈpɔhæ/
+adapt – poke – /ˈpɔkɛ/ [ˈpɔgɛ]
+fuck (slang) – pol – /pɔl/
+blow – pom – /pɔm/
+lick – pome – /ˈpɔmɛ/
+hug – pone – /ˈpɔnɛ/
+provide – pono – /ˈpɔnɔ/
+negotiate – poodo – /ˈpɔːdɔ/
+fly – poor – /pɔːr/
+wake; wake up; get up – poorä – /ˈpɔːræ/
+huddle – pooro – /ˈpɔːrɔ/
+carry out; implement – poosie – /ˈpɔːʃɛ/
+ask (invite) – pue – /pui̯/
+peek – puhoo – /ˈpʌhɔː/
+mock; imitate – puji – /ˈpʌji/
+take apart; dismantle – pukigi – /pʌˈkigi/ [pʌˈgigi]
+taste – pukoo – /ˈpʌkɔː/ [ˈpʌgɔː]
+guard – pul – /pʌl/
+bother – puum – /pʌːm/
+settle – puun – /pʌːn/
+follow – raa – /räː/
+lure; tempt – rähii – /ˈræhiː/
+throw; toss; hurl; fling; cast – ramm – /räm/
+shine – rämm – /ræm/
+enforce; compel – ramue – /ˈrämui̯/
+release; let go; let out; dismiss – rämuu – /ˈræmʌː/
+permit; enable – rärr – /rær/
+reveal – raunn – /räʌ̯n/
+bow – reelo – /ˈrɛːlɔ/
+judge – reen – /rɛːn/
+owe – reenämm – /ˈrɛːnæm/
+multiply – reere – /ˈrɛːrɛ/
+write – rell – /rɛl/
+read – remi – /ˈrɛmi/
+float; hover; skim; hang – ren – /rɛn/
+wash; rinse; flush – revomim – /rɛˈvɔmim/
+row – rihovaa – /riˈhɔväː/
+be (temporary state); be (located) – rii – /riː/
+dive – riir – /riːr/
+hike – riivo – /ˈriːvɔ/
+sweat – rinann – /ˈrinän/
+crack – rinn – /rin/
+compare – rirr – /rir/
+inherit – rom – /rɔm/
+limp – romäpä – /rɔˈmæpæ/ [rɔˈmæbæ]
+leak – romi – /ˈrɔmi/
+fry; simmer – romuu – /ˈrɔmʌː/
+mark; stain – roonu – /ˈrɔːnʌ/
+endorse – roopu – /ˈrɔːpʌ/ [ˈrɔːbʌ]
+shove – roor – /rɔːr/
+duck; crouch – ropoo – /ˈrɔpɔː/ [ˈrɔbɔː]
+attract; seduce; fascinate – ror – /rɔr/
+sponsor – rotau – /ˈrɔtäʌ̯/
+sneak; creep; lurk – rouun – /ˈrɔʌːn/
+put (place); put on – ru – /rʌ/
+build; construct; erect; mold – rue – /rui̯/
+deliver; transfer – ruigega – /rui̯ˈgɛgä/
+detain; restrain – rujeem – /ˈrʌjɛːm/
+sleep – ruso – /ˈrʌsɔ/
+must; have to – ruu – /rʌː/
+train; coach – ruujo – /ˈrʌːjɔ/
+sit – sä – /sæ/
+cough – sadoon – /ˈsädɔːn/
+dare – saemau – /ˈsäi̯mäʌ̯/
+imitate; mimic – saen – /säi̯n/
+criticize – sähe – /ˈsæhɛ/
+incorporate – sair – /säi̯r/
+dig; bore – säm – /sæm/
+weigh – samjä – /ˈsämjæ/
+convict – saum – /säʌ̯m/
+deserve – sebii – /ˈsɛbiː/
+turn; wind; twist; wiggle; distort – seem – /sɛːm/
+cover up – seemo – /ˈsɛːmɔ/
+frown – seepi – /ˈsɛːpi/ [ˈsɛːbi]
+chase – seepii – /ˈsɛːpiː/ [ˈsɛːbiː]
+spray – segä – /ˈsɛgæ/
+snatch; yank – sehe – /ˈsɛhɛ/
+register; book – seki – /ˈsɛki/ [ˈsɛgi]
+need (require); need (lack) – seloo – /ˈsɛlɔː/
+obey – selu – /ˈsɛlʌ/
+burn; ignite; simmer – semoo – /ˈsɛmɔː/
+leave (depart); depart – siä – /ʃæ/
+wander – siaemaa – /ˈʃäi̯mäː/
+cook (prepare food) – siäki – /ˈʃæki/ [ˈʃægi]
+bake – siälee – /ˈʃælɛː/
+pollute – siäll – /ʃæl/
+curse – siäluem – /ˈʃælui̯m/
+encounter; confront – siaunn – /ʃäʌ̯n/
+rate – sieer – /ʃɛːr/
+convert – sieri – /ˈʃɛri/
+enter; invade – sihi – /ˈsihi/ [ʃhi]
+bump – siidä – /ˈsiːdæ/ [ˈʃidæ]
+intend – siii – /ˈsiiː/ [sjiː]
+report – siiibuu – /ˈʃiːbʌː/
+charm; seduce; tempt – siisi – /ˈsiːsi/ [ʃiʃ]
+operate; treat – siluisuue – /siˈlui̯ʃui̯/ [ʃlui̯ˈʃui̯]
+contaminate – siomi – /ˈʃɔmi/
+arrive; reach – siota – /ˈʃɔtä/
+hold; support; reinforce; supplement – sirr – /sir/ [ʃr]
+edit; revise – sisä – /ˈsisæ/ [ʃsæ]
+shave; graze (touch) – sisaa – /ˈsisäː/ [ʃsäː]
+nominate – sito – /ˈsitɔ/ [ʃtɔ]
+knock – siuikoo – /ˈʃui̯kɔː/ [ˈʃui̯gɔː]
+come; go – siuiku – /ˈʃui̯kʌ/ [ˈʃui̯gʌ]
+lack – so – /sɔ/
+secure – sogii – /ˈsɔgiː/
+boil; simmer – somo – /ˈsɔmɔ/
+sentence – soon – /sɔːn/
+generate; spawn – sosoo – /ˈsɔsɔː/
+gamble – sotuu – /ˈsɔtʌː/
+kick – sou – /ˈsɔʌ/
+inspire; arouse; encourage – sovä – /ˈsɔvæ/
+learn – su – /sʌ/ [ʃ]
+freeze – suaal – /ʃäːl/
+ruin; spoil – suaga – /ˈʃägä/
+persuade; convince – suajaa – /ˈʃäjäː/
+punch – suär – /ʃær/
+review; analyze – suäsa – /ˈʃæsä/
+explain; interpret; translate – suau – /ʃäʌ̯/
+command; dominate; supervise – subasu – /sʌˈbäsʌ/ [ʃbäʃ]
+sweep – suebuu – /ˈsui̯bʌː/
+kill; murder; execute – sueedo – /ˈʃɛːdɔ/
+matter – suiimi – /ˈʃiːmi/
+pronounce; express – suivoo – /ˈʃivɔː/
+emit; discharge; radiate – sule – /ˈsʌlɛ/ [ʃlɛ]
+approach – sunsu – /ˈsʌnsʌ/ [ʃnʃ]
+drift – suon – /ʃɔn/
+neglect; overlook – suoor – /ʃɔːr/
+expect; hope; anticipate – suu – /sʌː/ [ʃʌ]
+inflict; impose – suukinoo – /sʌːˈkinɔː/ [ʃʌˈginɔː]
+blame; accuse – suutuu – /ˈsʌːtʌː/ [ˈʃʌtʌː]
+crave; miss (long for) – suuuno – /ˈʃʌːnɔ/
+avoid; escape – suuuvo – /ˈʃʌːvɔ/
+reach – taa – /täː/
+smirk – taakee – /ˈtäːkɛː/ [ˈtäːgɛː]
+vomit – taatä – /ˈtäːtæ/
+dodge – taedau – /ˈtäi̯däʌ̯/
+grunt – tägäl – /ˈtægæl/
+screw – täl – /tæl/
+cater – tälä – /ˈtælæ/
+bond – tam – /täm/
+erode – tämo – /ˈtæmɔ/
+excite – tarr – /tär/
+display; advertise – tärr – /tær/
+rock (move back and forth); toss – tätii – /ˈtætiː/
+stalk – taum – /täʌ̯m/
+smell (emit odor); stink – taurr – /täʌ̯r/
+drink – teboo – /ˈtɛbɔː/
+call (refer to by ); name – tee – /tɛː/
+cry; shout; exclaim; proclaim; affirm; sob – teeki – /ˈtɛːki/ [ˈtɛːgi]
+migrate – teemaa – /ˈtɛːmäː/
+fix; mend; repair; amend; recover – teemo – /ˈtɛːmɔ/
+spank – teenee – /ˈtɛːnɛː/
+blink – teeni – /ˈtɛːni/
+direct; conduct – teeniin – /ˈtɛːniːn/
+agree; admit; confess – teevem – /ˈtɛːvɛm/
+consolidate; incorporate – teevemuum – /tɛːˈvɛmʌːm/
+run – tejii – /ˈtɛjiː/
+keep (save; retain); carry – tidoo – /ˈtidɔː/
+attend; date; go out; show up – tigo – /ˈtigɔ/
+create; invent – tiil – /tiːl/
+govern – tiir – /tiːr/
+stand; stay; remain – tiji – /ˈtiji/
+brace – tijii – /ˈtijiː/
+assault – tiki – /ˈtiki/ [ˈtigi]
+abolish – tikuusuue – /tiˈkʌːʃui̯/ [tiˈgʌːʃui̯]
+hang out – tilai – /ˈtiläi̯/
+measure; calculate – tinn – /tin/
+stress; emphasize – tirä – /ˈtiræ/
+populate – tiruejä – /tiˈrui̯jæ/
+sway; convince – tobi – /ˈtɔbi/
+capture; seize – toerii – /tɔˈɛriː/
+solve; figure out; calculate – toluu – /ˈtɔlʌː/
+tell; speak; state; announce; explain; mention; instruct – too – /tɔː/
+share; split – toogi – /ˈtɔːgi/
+like; love; admire; enjoy – tookä – /ˈtɔːkæ/ [ˈtɔːgæ]
+find; discover; encounter; uncover – toom – /tɔːm/
+doubt – toon – /tɔːn/
+catch; grab; arrest; clutch; grasp; grip; intercept – toor – /tɔːr/
+pour; spill; drain – tota – /ˈtɔtä/
+supervise – tovaa – /ˈtɔväː/
+ask (request) – tu – /tʌ/
+haunt – tube – /ˈtʌbɛ/
+discourage; deter – tudi – /ˈtʌdi/
+live; exist – tue – /tui̯/
+relax – tuetä – /ˈtui̯tæ/
+vary; differ – tuge – /ˈtʌgɛ/
+pause – tumm – /tʌm/
+appeal – tunn – /tʌn/
+devote; donate – tunu – /ˈtʌnʌ/
+travel – tuumii – /ˈtʌːmiː/
+lift; raise; climb; escalate – tuune – /ˈtʌːnɛ/
+prowl – tuupi – /ˈtʌːpi/ [ˈtʌːbi]
+satisfy; convince – tuuta – /ˈtʌːtä/
+regard; deem – udo – /ˈʌdɔ/
+announce; proclaim; testify – uebe – /ˈui̯bɛ/
+clip; snip; trim – uebee – /ˈui̯bɛː/
+pay – uem – /ui̯m/
+peer; squint – uemee – /ˈui̯mɛː/
+focus – uevoo – /ˈui̯vɔː/
+perform; behave – uika – /ˈui̯kä/ [ˈui̯gä]
+shake; rattle; shudder; shiver – uin – /ui̯n/
+cross – uiti – /ˈui̯ti/
+illustrate; describe – ukii – /ˈʌkiː/ [ˈʌgiː]
+rise; escalate – ul – /ʌl/
+obsess – umepä – /ʌˈmɛpæ/ [ʌˈmɛbæ]
+should – ur – /ʌr/
+stack – uroo – /ˈʌrɔː/
+do; make; produce (manufacture); build; construct; create; prepare; earn; compel; induce; put (cause to be) – uu – /ʌː/
+have sex – uu memo – /ʌː ˈmɛmɔ/
+concentrate – uudiisiaa – /ʌːˈdiːʃäː/
+peel – uugii – /ˈʌːgiː/
+melt; dissolve; fade – uugo – /ˈʌːgɔ/
+shuffle; shift – uuji – /ˈʌːji/
+launch; hurl; embark – uujoo – /ˈʌːjɔː/
+afford – uumä – /ˈʌːmæ/
+surprise; startle – uumi – /ˈʌːmi/
+belong – uumoon – /ˈʌːmɔːn/
+bang – uuvä – /ˈʌːvæ/
+dispose – vaakii – /ˈväːkiː/ [ˈfäːgiː]
+avert; divert; distract – vaar – /väːr/ [fäːr]
+suspect – vagi – /ˈvägi/ [ˈfägi]
+spoil; indulge – vajoo – /ˈväjɔː/ [ˈfäjɔː]
+sink; drown; suffocate; descend – van – /vän/ [fän]
+smell (sense with nose) – väpai – /ˈvæpäi̯/ [ˈfæbäi̯]
+hate; resent – varr – /vär/ [fär]
+promise – vataavii – /väˈtäːviː/ [fäˈtäːviː]
+mean (intend) – vau – /väʌ̯/ [fäʌ̯]
+use; utilize; spend; manipulate – vauji – /ˈväʌ̯ji/ [ˈfäʌ̯ji]
+compromise – vaula – /ˈväʌ̯lä/ [ˈfäʌ̯lä]
+leave (let remain); abandon – vaum – /väʌ̯m/ [fäʌ̯m]
+reject; dismiss; vomit; veto – veekä – /ˈvɛːkæ/ [ˈfɛːgæ]
+value – veel – /vɛːl/ [fɛːl]
+open – veelä – /ˈvɛːlæ/ [ˈfɛːlæ]
+animate – veesii – /ˈvɛːʃi/ [ˈfɛːʃi]
+manufacture – veho – /ˈvɛhɔ/ [ˈfɛhɔ]
+exert – vemai – /ˈvɛmäi̯/ [ˈfɛmäi̯]
+imagine; devise; come up with – vepue – /ˈvɛpui̯/ [ˈfɛbui̯]
+extend – vigu – /ˈvigʌ/ [ˈfigʌ]
+recommend; advise; suggest – viijuunuim – /viːˈjʌːnui̯m/ [fiːˈjʌːnui̯m]
+accept; pardon – viikähui – /viːˈkæhui̯/ [fiːˈgæhui̯]
+vow – viin – /viːn/ [fiːn]
+discuss – viire – /ˈviːrɛ/ [ˈfiːrɛ]
+listen; hear – vikä – /ˈvikæ/ [ˈfigæ]
+understand; realize; comprehend – vike – /ˈvikɛ/ [ˈfigɛ]
+shatter – vimee – /ˈvimɛː/ [ˈfimɛː]
+keep (not return) – vimu – /ˈvimʌ/ [ˈfimʌ]
+exercise; train – vipee – /ˈvipɛː/ [ˈfibɛː]
+distinguish – vite – /ˈvitɛ/ [ˈfitɛ]
+clear – vo – /vɔ/ [fɔ]
+clean – voboo – /ˈvɔbɔː/ [ˈfɔbɔː]
+sniff; inhale – voho – /ˈvɔhɔ/ [ˈfɔhɔ]
+extract; pluck – vol – /vɔl/ [fɔl]
+hint; imply; remind – voon – /vɔːn/ [fɔːn]
+kiss – voor – /vɔːr/ [fɔːr]
+resemble – voti – /ˈvɔti/ [ˈfɔti]
+confirm; validate; verify – vuin – /vui̯n/ [fui̯n]
+annoy; agitate; exacerbate – vulaa – /ˈvʌläː/ [ˈfʌläː]
+waste – vumu – /ˈvʌmʌ/ [ˈfʌmʌ]
+exaggerate – vupo – /ˈvʌpɔ/ [ˈfʌbɔ]
+deny; contradict – vusuii – /ˈvʌʃiː/ [ˈfʌʃiː]
+raise; erect – vuum – /vʌːm/ [fʌːm]
+snap – vuun – /vʌːn/ [fʌːn]
+go down; descend – vuupä – /ˈvʌːpæ/ [ˈfʌːbæ]
+pass; happen; occur – vuur – /vʌːr/ [fʌːr]
